@@ -1,0 +1,24 @@
+{
+  "dir": "ltr",
+  "lang": "ja",
+  "name": "Power Platform 例題集",
+  "short_name": "Power Platform 例題集",
+  "scope": "/power-platform-basis/",
+  "display": "standalone",
+  "start_url": "https://ya-androidapp.github.io/power-platform-basis/",
+  "background_color": "#ffffff",
+  "theme_color": "transparent",
+  "description": "Power Platformに関連するリポジトリの一覧",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icon/ya-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "url": "https://ya-androidapp.github.io/power-platform-basis/",
+  "generated": true
+}

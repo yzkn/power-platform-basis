@@ -1,0 +1,1064 @@
+{
+  "copyright": "Copyright (c) 2022 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-ReceptionCounter 相生",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.564747,
+          35.657087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-Stamp 浅利",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.545156,
+          35.584905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-FeedReader 若神子新町",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.406491,
+          35.7763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-SharePoint-HorizontalApp 徳条",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.649993,
+          35.6714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sekido-Laravel-AudioPlayer- 関戸",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.455278,
+          35.653635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-BookManagement 北口",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.569124,
+          35.66753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-SocialBookmark 西島",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.452647,
+          35.485633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "k0d0 弘道",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.809394,
+          35.766206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-ConferenceRoomManagement 神戸",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.526676,
+          35.765231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electron-Minimal-browser 若神子",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.414994,
+          35.788877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-PowerAutomate-ArrayTest 山高",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.339372,
+          35.772927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerAutomate-Approvals-Simple-3steps 円野",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.386858,
+          35.763255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JavaScript-Local-AudioPlayer 松が谷",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.422104,
+          35.631803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JavaScript-MediaRecorder 鶯宿",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.640557,
+          35.560505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerAutomate-Sone 曽根",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.583233,
+          35.591436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-PowerAutomate-CustomConnector-GetPresence 酒折",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.59659,
+          35.661027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-PasswordGen 蓬沢",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.595485,
+          35.642366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-AppFramework 屋形",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.571093,
+          35.682172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-Circulation 打返",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.516859,
+          35.740587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-WaitingList 向町",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.612651,
+          35.646386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otowa 音羽",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5394,
+          35.677583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yumura 湯村",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.548804,
+          35.679806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shiobe3 塩部",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.558304,
+          35.674533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ShiobeForAndroid 塩部",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.561008,
+          35.672825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ShiobeForAndroidWear 塩部",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.55677,
+          35.670986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kotta 乞田",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.415528,
+          35.618992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-CustomConnector-CSharp-Dev 永山",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.449184,
+          35.629806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-CustomConnector-CSharp-XML 諏訪",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.451035,
+          35.632191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-Clocks 落合",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.425232,
+          35.622877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dotnet6-WinFormsTcpApp 梅島",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.797635,
+          35.772574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-MSTeams-Client 大師",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.780061,
+          35.780195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-CustomConnector-CSharp-Cryptography 馬引沢",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.451416,
+          35.635796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerAutomate-Approvals-Dynamically 御勅使",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.457046,
+          35.671295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-AppointmentSystem 玉穂",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.537088,
+          35.609467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-POS 大津町",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.564098,
+          35.602053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-MapView 千塚",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.543756,
+          35.679549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-PowerAutomate-Geocoding-Gsi 今井",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.605527,
+          35.631885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-Calendars 百々",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.46418,
+          35.655466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-Weather 北の丸",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.751158,
+          35.692093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-CustomerManagement 青柳",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.466723,
+          35.56219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-MediaPlayer 百草",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.427066,
+          35.654236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-Circulation-Management-Cars 休息",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.715358,
+          35.678507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-PowerAutomate-Circulation-Management-Exchange-Equipment 等々力",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.714232,
+          35.666201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerAutomate-Wait 横根",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.608714,
+          35.670833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerAutomate-SendingMailWeekly 和戸",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.614872,
+          35.65856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerAutomate-Teams-SafetyConfirmation 亥鼻",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.127193,
+          35.604565
+        ]
+      }
+    }
+  ]
+}

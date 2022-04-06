@@ -1,0 +1,94 @@
+/* Copyright (c) 2022 YA-androidapp(https://github.com/YA-androidapp) All rights reserved. */
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+body {
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.bg-powerapps {
+  background-color: #5C005C !important;
+}
+
+.bg-powerautomate {
+  background-color: #0066FF !important;
+}
+
+.bg-powerbi {
+  background-color: #FFB900 !important;
+}
+
+.bg-sharepoint {
+  background-color: #03787C !important;
+}
+
+.bg-teams {
+  background-color: #4B53BC !important;
+}
+
+.bg-customconnector {
+  background-color: #42c94c !important;
+}
+
+.bg-solution {
+  background-color: #5cb85c !important;
+}
+
+.bg-tutorial {
+  background-color: #666666 !important;
+}
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+.carousel {
+  margin-bottom: 4rem;
+}
+
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+.carousel-item {
+  height: 32rem;
+}
+
+.carousel-item>img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+@media (min-width: 40em) {
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
