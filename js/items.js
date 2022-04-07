@@ -307,5 +307,13 @@ const repos = [
         item_summary: 'クラウドフローを複製するクラウドフロー',
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerAutomate-CopyFlow',
         item_tags: ['solution', 'powerautomate'],
-    }
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-Teams-CallMemo/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Teams-CallMemo',
+        item_label: 'CallMemo',
+        item_summary: 'Power Apps で入力し、 Power Automate 経由でアダプティブカードを送信する伝言メモアプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-Teams-CallMemo',
+        item_tags: ['solution', 'powerapps', 'powerautomate', 'teams'],
+    },
 ];
