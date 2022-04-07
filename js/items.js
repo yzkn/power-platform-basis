@@ -2,7 +2,7 @@
 
 const banners = [
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/ExternalMonitoring-UptimeRobot-PowerAutomate/104.png',
+        item_image: 'ExternalMonitoring-UptimeRobot-PowerAutomate/104.png',
         item_title: 'ExternalMonitoring-UptimeRobot-PowerAutomate',
         item_label: 'ExternalMonitoring',
         item_summary: '簡易的な Web 監視を Power Automate で実現する',
@@ -10,7 +10,7 @@ const banners = [
         item_tags: ['tutorial', 'powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerApps-SakeLedger/003.png',
+        item_image: 'PowerApps-SakeLedger/003.png',
         item_title: 'PowerApps-SakeLedger',
         item_label: 'SakeLedger',
         item_summary: 'PowerAppsでCRUDアプリを実装する手順',
@@ -21,7 +21,7 @@ const banners = [
 
 const repos = [
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-AppFramework/2353701_s.jpg',
+        item_image: 'PowerPlatform-PowerApps-AppFramework/2353701_s.jpg',
         item_title: 'PowerPlatform-PowerApps-AppFramework',
         item_label: 'AppFramework',
         item_summary: 'Power Appsキャンバスアプリのフレームワーク',
@@ -29,7 +29,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-BookManagement/list.png',
+        item_image: 'PowerPlatform-PowerApps-BookManagement/list.png',
         item_title: 'PowerPlatform-PowerApps-BookManagement',
         item_label: 'BookManagement',
         item_summary: 'Power Apps で実装した蔵書管理アプリ',
@@ -37,7 +37,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-ConferenceRoomManagement/RoomScreen.png',
+        item_image: 'PowerPlatform-PowerApps-ConferenceRoomManagement/RoomScreen.png',
         item_title: 'PowerPlatform-PowerApps-ConferenceRoomManagement',
         item_label: 'ConferenceRoomManagement',
         item_summary: 'Power Apps で実装した会議室予約システム',
@@ -45,7 +45,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-Stamp/App01.png',
+        item_image: 'PowerPlatform-PowerApps-Stamp/App01.png',
         item_title: 'PowerPlatform-PowerApps-Stamp',
         item_label: 'Stamp',
         item_summary: 'Power Apps で実装したデジタルスタンプラリーアプリ',
@@ -53,7 +53,7 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-ReceptionCounter/App01.png',
+        item_image: 'PowerPlatform-PowerApps-ReceptionCounter/App01.png',
         item_title: 'PowerPlatform-PowerApps-ReceptionCounter',
         item_label: 'ReceptionCounter',
         item_summary: 'Power Apps で実装した受付窓口順番待ちアプリ',
@@ -61,7 +61,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-FeedReader/App01.png',
+        item_image: 'PowerPlatform-PowerApps-FeedReader/App01.png',
         item_title: 'PowerPlatform-PowerApps-FeedReader',
         item_label: 'FeedReader',
         item_summary: 'Power Apps で実装したRSSリーダー',
@@ -69,7 +69,7 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-CustomConnector-CSharp-Cryptography/Canvasapp.png',
+        item_image: 'PowerPlatform-CustomConnector-CSharp-Cryptography/Canvasapp.png',
         item_title: 'PowerPlatform-CustomConnector-CSharp-Cryptography',
         item_label: 'Cryptography',
         item_summary: 'C#カスタムコネクタで暗号化・復号化するキャンバスアプリ',
@@ -77,7 +77,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'customconnector'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-CustomConnector-CSharp-XML/Connector.png',
+        item_image: 'PowerPlatform-CustomConnector-CSharp-XML/Connector.png',
         item_title: 'PowerPlatform-CustomConnector-CSharp-XML',
         item_label: 'XML',
         item_summary: 'C#カスタムコネクタでXML文字列からJSONに変換する',
@@ -85,7 +85,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'customconnector'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-Circulation/registerapp.png',
+        item_image: 'PowerPlatform-PowerApps-Circulation/registerapp.png',
         item_title: 'PowerPlatform-PowerApps-Circulation',
         item_label: 'Circulation',
         item_summary: 'Power Apps で実装した回覧・承認アプリ',
@@ -93,7 +93,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-MapView/MapView.png',
+        item_image: 'PowerPlatform-PowerApps-MapView/MapView.png',
         item_title: 'PowerPlatform-PowerApps-MapView',
         item_label: 'MapView',
         item_summary: '館内案内図・フリーアドレス座席予約などに使える、地図上に人やモノの位置を動的に描画するキャンバスアプリ',
@@ -101,7 +101,7 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-PowerAutomate-CustomConnector-GetPresence/app.png',
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-CustomConnector-GetPresence/app.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-CustomConnector-GetPresence',
         item_label: 'Presence',
         item_summary: 'テナント内のユーザーのプレゼンスを取得する',
@@ -109,7 +109,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'customconnector'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-MapApp/card.png',
+        item_image: 'PowerPlatform-PowerApps-MapApp/card.png',
         item_title: 'PowerPlatform-PowerApps-MapApp',
         item_label: 'MapApp',
         item_summary: 'Bing Maps を Power Apps キャンバスアプリに表示する',
@@ -117,7 +117,7 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-PowerAutomate-Geocoding-Gsi/App01.png',
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-Geocoding-Gsi/App01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-Geocoding-Gsi',
         item_label: 'Geocoding',
         item_summary: '地理院地図を利用したジオコーディング',
@@ -125,7 +125,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-Clocks/App.png',
+        item_image: 'PowerPlatform-PowerApps-Clocks/App.png',
         item_title: 'PowerPlatform-PowerApps-Clocks',
         item_label: 'Clocks',
         item_summary: '<a href="https://github.com/YA-androidapp/PowerPlatform-PowerApps-AppFramework">AppFramework</a>からアナログ時計コンポーネントのみ切り出し、デジタル時計を追加',
@@ -133,7 +133,7 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-Otowa/MainScreen.png',
+        item_image: 'PowerPlatform-PowerApps-Otowa/MainScreen.png',
         item_title: 'PowerPlatform-PowerApps-Otowa',
         item_label: 'Otowa',
         item_summary: '<a href="https://github.com/YA-androidapp/Otowa">Otowa</a> を Power Apps に移植',
@@ -141,7 +141,7 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-PasswordGen/app.png',
+        item_image: 'PowerPlatform-PowerApps-PasswordGen/app.png',
         item_title: 'PowerPlatform-PowerApps-PasswordGen',
         item_label: 'PasswordGen',
         item_summary: 'ランダムパスワードを生成するキャンバスアプリ',
@@ -149,7 +149,7 @@ const repos = [
         item_tags: ['powerapps'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-POS/PosRegister01.png',
+        item_image: 'PowerPlatform-PowerApps-POS/PosRegister01.png',
         item_title: 'PowerPlatform-PowerApps-POS',
         item_label: 'POS',
         item_summary: 'Power Apps で実装した POS レジ',
@@ -157,7 +157,7 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-WaitingList/DisplayTerminal01.png',
+        item_image: 'PowerPlatform-PowerApps-WaitingList/DisplayTerminal01.png',
         item_title: 'PowerPlatform-PowerApps-WaitingList',
         item_label: 'WaitingList',
         item_summary: 'Power Apps で実装した順番待ちアプリ',
@@ -165,7 +165,7 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-AppointmentSystem/Print01.png',
+        item_image: 'PowerPlatform-PowerApps-AppointmentSystem/Print01.png',
         item_title: 'PowerPlatform-PowerApps-AppointmentSystem',
         item_label: 'AppointmentSystem',
         item_summary: 'Power Apps で実装した診療予約システム',
@@ -173,7 +173,7 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-SharePoint-HorizontalApp/App01.png',
+        item_image: 'PowerPlatform-PowerApps-SharePoint-HorizontalApp/App01.png',
         item_title: 'PowerPlatform-PowerApps-SharePoint-HorizontalApp',
         item_label: 'SharePoint-HorizontalApp',
         item_summary: 'スキャフォールディングしたのと同等の横向きキャンバスアプリ',
@@ -181,7 +181,7 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-PowerAutomate-Circulation-Management-Exchange-Equipment/App01.png',
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-Circulation-Management-Exchange-Equipment/App01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-Circulation-Management-Exchange-Equipment',
         item_label: 'Equipment',
         item_summary: 'Power Apps で実装した備品管理アプリ（Exchangeリソースメールボックス使用）',
@@ -189,7 +189,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate', 'customconnector'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-MSTeams-Client/App01.png',
+        item_image: 'PowerPlatform-PowerApps-MSTeams-Client/App01.png',
         item_title: 'PowerPlatform-PowerApps-MSTeams-Client',
         item_label: 'MSTeams-Client',
         item_summary: 'Power Apps で実装した Teams クライアント',
@@ -197,7 +197,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'teams'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerAutomate-Teams-SafetyConfirmation/Teams01.png',
+        item_image: 'PowerPlatform-PowerAutomate-Teams-SafetyConfirmation/Teams01.png',
         item_title: 'PowerPlatform-PowerAutomate-Teams-SafetyConfirmation',
         item_label: 'SafetyConfirmation',
         item_summary: 'Power Automate でアダプティブカードを送信する安否確認システム',
@@ -205,7 +205,7 @@ const repos = [
         item_tags: ['solution', 'powerautomate', 'teams'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerAutomate-Approvals-Simple-3steps/AP001.png',
+        item_image: 'PowerPlatform-PowerAutomate-Approvals-Simple-3steps/AP001.png',
         item_title: 'PowerPlatform-PowerAutomate-Approvals-Simple-3steps',
         item_label: 'Approvals',
         item_summary: 'Power Automate で実装した、シンプルな3段階承認ワークフロー',
@@ -213,7 +213,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerAutomate-Approvals-Dynamically/Flow01.png',
+        item_image: 'PowerPlatform-PowerAutomate-Approvals-Dynamically/Flow01.png',
         item_title: 'PowerPlatform-PowerAutomate-Approvals-Dynamically',
         item_label: 'Approvals',
         item_summary: 'Power Automate で実装した、承認経路を動的に指定できるちょっと複雑な承認ワークフロー',
@@ -221,7 +221,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerAutomate-Wait/Flow01.png',
+        item_image: 'PowerPlatform-PowerAutomate-Wait/Flow01.png',
         item_title: 'PowerPlatform-PowerAutomate-Wait',
         item_label: 'Wait',
         item_summary: 'Sleep / Wait / 指定秒数待機するクラウドフロー',
@@ -229,7 +229,7 @@ const repos = [
         item_tags: ['powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-SocialBookmark/App01.png',
+        item_image: 'PowerPlatform-PowerApps-SocialBookmark/App01.png',
         item_title: 'PowerPlatform-PowerApps-SocialBookmark',
         item_label: 'SocialBookmark',
         item_summary: 'Power Apps で実装したソーシャルブックマークアプリ',
@@ -237,7 +237,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerAutomate-SendingMailWeekly/Flow01.png',
+        item_image: 'PowerPlatform-PowerAutomate-SendingMailWeekly/Flow01.png',
         item_title: 'PowerPlatform-PowerAutomate-SendingMailWeekly',
         item_label: 'Mail',
         item_summary: '毎週メールを送信するクラウドフロー',
@@ -245,7 +245,7 @@ const repos = [
         item_tags: ['powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/ExternalMonitoring-UptimeRobot-PowerAutomate/104.png',
+        item_image: 'ExternalMonitoring-UptimeRobot-PowerAutomate/104.png',
         item_title: 'ExternalMonitoring-UptimeRobot-PowerAutomate',
         item_label: 'ExternalMonitoring',
         item_summary: '簡易的な Web 監視を Power Automate で実現する',
@@ -253,7 +253,7 @@ const repos = [
         item_tags: ['tutorial', 'powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerApps-SakeLedger/003.png',
+        item_image: 'PowerApps-SakeLedger/003.png',
         item_title: 'PowerApps-SakeLedger',
         item_label: 'SakeLedger',
         item_summary: 'PowerAppsでCRUDアプリを実装する手順',
@@ -261,7 +261,7 @@ const repos = [
         item_tags: ['tutorial', 'powerapps'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-NovelGameEngine/story.png',
+        item_image: 'PowerPlatform-PowerApps-NovelGameEngine/story.png',
         item_title: 'PowerPlatform-PowerApps-NovelGameEngine',
         item_label: 'NovelGameEngine',
         item_summary: 'Power Apps ・ Power Automate ・ Power BIを利用してゲームエンジン・ユーザーコラボレーション・分析ポータルを作成する',
@@ -269,7 +269,7 @@ const repos = [
         item_tags: ['powerapps', 'powerautomate', 'powerbi'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-MediaPlayer/App01.png',
+        item_image: 'PowerPlatform-PowerApps-MediaPlayer/App01.png',
         item_title: 'PowerPlatform-PowerApps-MediaPlayer',
         item_label: 'MediaPlayer',
         item_summary: 'Power Apps で実装したメディアプレーヤーアプリ',
@@ -277,7 +277,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-Weather/App01.png',
+        item_image: 'PowerPlatform-PowerApps-Weather/App01.png',
         item_title: 'PowerPlatform-PowerApps-Weather',
         item_label: 'Weather',
         item_summary: 'Power Apps で実装した天気予報アプリ',
@@ -285,7 +285,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-Circulation-Management-Cars/App01.png',
+        item_image: 'PowerPlatform-PowerApps-Circulation-Management-Cars/App01.png',
         item_title: 'PowerPlatform-PowerApps-Circulation-Management-Cars',
         item_label: 'Cars',
         item_summary: 'Power Apps で実装した社用車貸出管理アプリ',
@@ -293,11 +293,19 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/PowerPlatform-PowerApps-Calendars/App01.png',
+        item_image: 'PowerPlatform-PowerApps-Calendars/App01.png',
         item_title: 'PowerPlatform-PowerApps-Calendars',
         item_label: 'Calendars',
         item_summary: 'Power Apps で実装したカレンダー集',
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Calendars',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerAutomate-CopyFlow/Flow01.png',
+        item_title: 'PowerPlatform-PowerAutomate-CopyFlow',
+        item_label: 'CopySelf',
+        item_summary: 'クラウドフローを複製するクラウドフロー',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerAutomate-CopyFlow',
+        item_tags: ['solution', 'powerautomate'],
     }
 ];

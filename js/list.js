@@ -19,7 +19,7 @@ const load_banners = () => {
     banners.forEach((item, index) => {
         inner.push(`
         <div class="carousel-item` + (index == 0 ? ' active' : '') + `">
-            <img alt="${item['item_label']}" src="${item['item_image']}">
+            <img alt="${item['item_label']}" src="https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/${item['item_image']}">
 
             <div class="container">
                 <div class="carousel-caption text-end">
@@ -53,7 +53,7 @@ const load_repos = () => {
             <div class="card shadow-sm">
                 <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg"
                     role="img" focusable="false"
-                    style="background-size: cover; background-image: url(${item['item_image']})">
+                    style="background-size: cover; background-image: url(https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/${item['item_image']})">
                     <title>${item['item_title']}</title>
                     <text x="50%" y="50%" fill="#eceeef" dy=".3em">${item['item_label']}</text>
                 </svg>
