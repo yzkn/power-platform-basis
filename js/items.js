@@ -316,4 +316,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-Teams-CallMemo',
         item_tags: ['solution', 'powerapps', 'powerautomate', 'teams'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-BusinessCard/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-BusinessCard',
+        item_label: 'BusinessCard',
+        item_summary: 'Power Apps と Power Automate で実装した名刺申請ワークフロー・作成アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-BusinessCard',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    }
 ];
