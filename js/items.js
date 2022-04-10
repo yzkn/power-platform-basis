@@ -323,5 +323,13 @@ const repos = [
         item_summary: 'Power Apps と Power Automate で実装した名刺申請ワークフロー・作成アプリ',
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-BusinessCard',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
-    }
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-Teams-RemoteWorkReport/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Teams-RemoteWorkReport',
+        item_label: 'RemoteWorkReport',
+        item_summary: 'Power Apps と Power Automate で実装したリモートワーク業務日報',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-Teams-RemoteWorkReport',
+        item_tags: ['solution', 'powerapps', 'powerautomate', 'teams'],
+    },
 ];
