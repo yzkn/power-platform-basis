@@ -47,6 +47,7 @@ const load_banners = () => {
 
 const load_repos = () => {
     let inner = [];
+    repos.sort(() => Math.random() - 0.5);
     repos.forEach(item => {
         inner.push(`
         <div class="col">
