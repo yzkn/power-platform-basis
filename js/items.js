@@ -340,4 +340,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-MeetingAgenda',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-FaxCover/App01.png',
+        item_title: 'PowerPlatform-PowerApps-FaxCover',
+        item_label: 'FaxCover',
+        item_summary: 'Power Apps で実装したFAX送付状印刷アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-FaxCover',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
