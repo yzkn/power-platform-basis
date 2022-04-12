@@ -348,4 +348,29 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-FaxCover',
         item_tags: ['solution', 'powerapps'],
     },
+
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-Lipsum/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Lipsum',
+        item_label: 'Lipsum',
+        item_summary: 'Power Apps と Power Automate で実装したLipsum取得アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-Lipsum',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-MeetingMinutes/App01.png',
+        item_title: 'PowerPlatform-PowerApps-MeetingMinutes',
+        item_label: 'Minutes',
+        item_summary: 'Power Apps で実装した議事録アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-MeetingMinutes',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-Sticky/App01.png',
+        item_title: 'PowerPlatform-PowerApps-Sticky',
+        item_label: 'Sticky',
+        item_summary: 'Power Apps で実装した付箋タスク管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Sticky',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
