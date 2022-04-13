@@ -369,7 +369,7 @@ const repos = [
         item_image: 'PowerPlatform-PowerApps-Sticky/App01.png',
         item_title: 'PowerPlatform-PowerApps-Sticky',
         item_label: 'Sticky',
-        item_summary: 'Power Apps で実装した付箋タスク管理アプリ',
+        item_summary: 'Power Apps で実装した付箋式タスク管理アプリ',
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Sticky',
         item_tags: ['solution', 'powerapps'],
     },
