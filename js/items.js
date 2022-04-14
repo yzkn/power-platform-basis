@@ -373,4 +373,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Sticky',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-Agriculture/App01.png',
+        item_title: 'PowerPlatform-PowerApps-Agriculture',
+        item_label: 'Agriculture',
+        item_summary: 'Power Apps で実装した圃場管理（スマート農業）アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Agriculture',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
