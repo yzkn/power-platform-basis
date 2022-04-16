@@ -421,4 +421,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-AADUserTable',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-Members/App01.png',
+        item_title: 'PowerPlatform-PowerApps-Members',
+        item_label: 'Members',
+        item_summary: 'Power Apps で実装した社員一覧アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Members',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
