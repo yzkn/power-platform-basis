@@ -413,4 +413,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-CustomerManagement',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-AADUserTable/App01.png',
+        item_title: 'PowerPlatform-PowerApps-AADUserTable',
+        item_label: 'AADUser',
+        item_summary: 'AADUserテーブルの活用',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-AADUserTable',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
