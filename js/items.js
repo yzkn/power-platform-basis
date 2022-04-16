@@ -389,4 +389,28 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PomodoroTimer',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-EquipmentManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-EquipmentManagement',
+        item_label: 'Equipments',
+        item_summary: 'Power Apps で実装した備品管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-EquipmentManagement',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-SoftwareManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-SoftwareManagement',
+        item_label: 'SoftwareManagement',
+        item_summary: 'Power Apps と Power Automate で実装したソフトウェア管理台帳アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-SoftwareManagement',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-CustomerManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-CustomerManagement',
+        item_label: 'Customers',
+        item_summary: 'Power Apps で実装した顧客管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-CustomerManagement',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
