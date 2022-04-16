@@ -417,7 +417,7 @@ const repos = [
         item_image: 'PowerPlatform-PowerApps-AADUserTable/App01.png',
         item_title: 'PowerPlatform-PowerApps-AADUserTable',
         item_label: 'AADUser',
-        item_summary: 'AADUserテーブルの活用',
+        item_summary: 'AAD Userテーブルのテスト',
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-AADUserTable',
         item_tags: ['solution', 'powerapps'],
     },
