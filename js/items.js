@@ -429,4 +429,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Members',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-HealthManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-HealthManagement',
+        item_label: 'HealthManagement',
+        item_summary: 'Power Apps で実装した健康管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-HealthManagement',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
