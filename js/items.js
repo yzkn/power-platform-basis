@@ -462,11 +462,11 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate', 'forms'],
     },
     {
-        item_image: 'PowerPlatform-PowerApps-CSV/App01.png',
-        item_title: 'PowerPlatform-PowerApps-CSV',
-        item_label: 'CSV',
-        item_summary: 'Power Apps で CSV データをグリッド表示',
-        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-CSV',
+        item_image: 'PowerPlatform-PowerApps-ShapeGeoJSONObjects/App01.png',
+        item_title: 'PowerPlatform-PowerApps-ShapeGeoJSONObjects',
+        item_label: 'ShapeGeoJSONObjects',
+        item_summary: 'Power Apps で GeoJSON データを表示',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-ShapeGeoJSONObjects',
         item_tags: ['solution', 'powerapps'],
     },
     {
