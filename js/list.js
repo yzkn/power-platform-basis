@@ -4,6 +4,7 @@ const get_tag_html = (tags) => {
     tags.sort();
     return tags.join(' ')
         .replace('customconnector', '<span class="badge bg-customconnector">Custom Connector</span>')
+        .replace('forms', '<span class="badge bg-forms">Forms</span>')
         .replace('powerapps', '<span class="badge bg-powerapps">Power Apps</span>')
         .replace('powerautomate', '<span class="badge bg-powerautomate">Power Automate</span>')
         .replace('powerbi', '<span class="badge bg-powerbi">Power BI</span>')
