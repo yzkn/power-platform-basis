@@ -454,7 +454,7 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'PowerPlatform-PowerApps-PowerAutomate-MountainClimbingRegistration/App01.png',
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-MountainClimbingRegistration/Forms01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-MountainClimbingRegistration',
         item_label: 'MountainClimbingRegistration',
         item_summary: 'Power Apps と Power Automate 、 Forms で実装した登山届提出システム',
