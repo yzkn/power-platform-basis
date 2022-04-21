@@ -485,4 +485,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-InquiryManagement',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-Paint/App01.png',
+        item_title: 'PowerPlatform-PowerApps-Paint',
+        item_label: 'Paint',
+        item_summary: 'Power Apps で手書きペイント',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Paint',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
