@@ -477,4 +477,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Faker',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-InquiryManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-InquiryManagement',
+        item_label: 'InquiryManagement',
+        item_summary: 'Power Apps と Power Automate で実装した問い合わせ管理システム',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-InquiryManagement',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
