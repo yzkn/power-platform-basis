@@ -501,4 +501,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-VoiceActressDirectory',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerAutomate-TrainingForTargetedThreat/Flow01.png',
+        item_title: 'PowerPlatform-PowerAutomate-TrainingForTargetedThreat',
+        item_label: 'TrainingForTargetedThreat',
+        item_summary: '標的型攻撃に対する訓練を行うクラウドフロー',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerAutomate-TrainingForTargetedThreat',
+        item_tags: ['solution', 'powerautomate'],
+    },
 ];
