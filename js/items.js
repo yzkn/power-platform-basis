@@ -493,4 +493,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Paint',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-VoiceActressDirectory/App01.png',
+        item_title: 'PowerPlatform-PowerApps-VoiceActressDirectory',
+        item_label: 'VoiceActressDirectory',
+        item_summary: 'Power Apps で実装した声優名鑑',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-VoiceActressDirectory',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
