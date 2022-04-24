@@ -513,7 +513,7 @@ const repos = [
         item_image: 'PowerPlatform-PowerApps-PowerAutomate-OfficeReceptionSystem/App01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-OfficeReceptionSystem',
         item_label: 'OfficeReceptionSystem',
-        item_summary: 'Power Apps で実装したオフィス向け来訪者受付アプリ',
+        item_summary: 'Power Apps と Power Automate で実装したオフィス向け来訪者受付アプリ',
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-OfficeReceptionSystem',
         item_tags: ['solution', 'powerapps', 'powerautomate', 'teams'],
     },
