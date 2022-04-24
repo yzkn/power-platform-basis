@@ -56,7 +56,7 @@ const repos = [
         item_image: 'PowerPlatform-PowerApps-ReceptionCounter/App01.png',
         item_title: 'PowerPlatform-PowerApps-ReceptionCounter',
         item_label: 'ReceptionCounter',
-        item_summary: 'Power Apps で実装した受付窓口順番待ちアプリ',
+        item_summary: 'Power Apps で実装した市役所の受付窓口順番待ちアプリ',
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-ReceptionCounter',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
