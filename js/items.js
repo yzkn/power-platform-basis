@@ -502,7 +502,7 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'PowerPlatform-PowerAutomate-TrainingForTargetedThreat/Flow01.png',
+        item_image: 'PowerPlatform-PowerAutomate-TrainingForTargetedThreat/Outlook01.png',
         item_title: 'PowerPlatform-PowerAutomate-TrainingForTargetedThreat',
         item_label: 'TrainingForTargetedThreat',
         item_summary: '標的型攻撃に対する訓練を行うクラウドフロー',
