@@ -509,4 +509,20 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerAutomate-TrainingForTargetedThreat',
         item_tags: ['solution', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-OfficeReceptionSystem/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-OfficeReceptionSystem',
+        item_label: 'OfficeReceptionSystem',
+        item_summary: 'Power Apps で実装したオフィス向け来訪者受付アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-OfficeReceptionSystem',
+        item_tags: ['solution', 'powerapps', 'powerautomate', 'teams'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-BusLocationSystem/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-BusLocationSystem',
+        item_label: 'BusLocationSystem',
+        item_summary: 'Power Apps と Power Automate で実装したバスロケシステム',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-BusLocationSystem',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
