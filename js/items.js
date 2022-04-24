@@ -525,4 +525,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-BusLocationSystem',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-ParkingManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-ParkingManagement',
+        item_label: 'ParkingManagement',
+        item_summary: 'Power Apps と Power Automate で実装した駐車場管理システム',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-ParkingManagement',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
