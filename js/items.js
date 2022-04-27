@@ -533,4 +533,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-ParkingManagement',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-FoodInventoryManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-FoodInventoryManagement',
+        item_label: 'FoodInventoryManagement',
+        item_summary: 'Power Apps と Power Automate で実装した冷蔵庫の中の食材を管理、賞味期限間近のものを通知するアプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-FoodInventoryManagement',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
