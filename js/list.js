@@ -78,6 +78,9 @@ const load_repos = () => {
 
     const listElem = document.getElementsByClassName('list')[0];
     listElem.innerHTML = inner.join();
+
+    const countElem = document.getElementById('repos-count');
+    countElem.innerHTML = repos.length;
 }
 
 window.addEventListener('DOMContentLoaded', () => {
