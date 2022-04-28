@@ -549,4 +549,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-VideoPlayer',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-ExaminationResult-RadarChart/App01.png',
+        item_title: 'PowerPlatform-PowerApps-ExaminationResult-RadarChart',
+        item_label: 'ExaminationResult',
+        item_summary: 'Power Apps で実装した試験結果通知アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-ExaminationResult-RadarChart',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
