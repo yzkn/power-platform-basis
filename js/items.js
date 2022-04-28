@@ -541,4 +541,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-FoodInventoryManagement',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-VideoPlayer/App01.png',
+        item_title: 'PowerPlatform-PowerApps-VideoPlayer',
+        item_label: 'VideoPlayer',
+        item_summary: 'Power Apps で実装した動画プレーヤーアプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-VideoPlayer',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
