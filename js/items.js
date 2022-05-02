@@ -557,4 +557,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-ExaminationResult-RadarChart',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-PaidLeaveApplication/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-PaidLeaveApplication',
+        item_label: 'PaidLeaveApplication',
+        item_summary: 'Power Apps で実装した有給休暇申請アプリと Power Automate で実装した承認フロー',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-PaidLeaveApplication',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
