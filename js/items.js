@@ -565,4 +565,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-PaidLeaveApplication',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-AgeChart/App01.png',
+        item_title: 'PowerPlatform-PowerApps-AgeChart',
+        item_label: 'AgeChart',
+        item_summary: 'Power Apps で実装した年齢早見表アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-AgeChart',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
