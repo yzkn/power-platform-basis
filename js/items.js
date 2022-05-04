@@ -573,4 +573,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-AgeChart',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-Teams-BranchManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Teams-BranchManagement',
+        item_label: 'BranchManagement',
+        item_summary: 'Power Apps と Power Automate で実装した支店管理・連絡アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-Teams-BranchManagement',
+        item_tags: ['solution', 'powerapps', 'powerautomate', 'teams'],
+    },
 ];
