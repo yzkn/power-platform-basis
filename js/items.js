@@ -621,4 +621,20 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-DocumentedEvidenceManagement',
         item_tags: ['solution', 'powerapps', 'powerautomate', 'teams'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-ClassJournal/App01.png',
+        item_title: 'PowerPlatform-PowerApps-ClassJournal',
+        item_label: 'ClassJournal',
+        item_summary: 'Power Apps で実装した学級日誌アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-ClassJournal',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-TakingOutApproval/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-TakingOutApproval',
+        item_label: 'TakingOutApproval',
+        item_summary: 'Power Apps と power Automate で実装したPC持ち出し申請・承認アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-TakingOutApproval',
+        item_tags: ['solution', 'powerapps', 'powerautomate', 'teams'],
+    },
 ];

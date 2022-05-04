@@ -1979,6 +1979,52 @@
           35.627473
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-ClassJournal 桃井",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.596557,
+          35.717045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-PowerAutomate-TakingOutApproval 関町",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.581642,
+          35.723254
+        ]
+      }
     }
   ]
 }
