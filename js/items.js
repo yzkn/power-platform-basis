@@ -637,4 +637,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-TakingOutApproval',
         item_tags: ['solution', 'powerapps', 'powerautomate', 'teams'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-Addresses/App01.png',
+        item_title: 'PowerPlatform-PowerApps-Addresses',
+        item_label: 'Addresses',
+        item_summary: 'Power Apps で実装した住所検索アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Addresses',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
