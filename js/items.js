@@ -645,4 +645,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Addresses',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-PurchaseApproval/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-PurchaseApproval',
+        item_label: 'PurchaseApproval',
+        item_summary: 'Power Apps と power Automate で実装した物品購入申請・承認アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-PurchaseApproval',
+        item_tags: ['solution', 'powerapps', 'powerautomate', 'teams'],
+    },
 ];
