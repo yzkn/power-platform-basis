@@ -653,4 +653,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-PurchaseApproval',
         item_tags: ['solution', 'powerapps', 'powerautomate', 'teams'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-CongratulatoryCondolenceMoneyApplication/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-CongratulatoryCondolenceMoneyApplication',
+        item_label: 'CongratulatoryCondolenceMoneyApplication',
+        item_summary: 'Power Apps と power Automate で実装した慶弔見舞金支給申請アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-CongratulatoryCondolenceMoneyApplication',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
