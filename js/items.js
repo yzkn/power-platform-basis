@@ -661,4 +661,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-CongratulatoryCondolenceMoneyApplication',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-OfficeTemplates/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-OfficeTemplates',
+        item_label: 'OfficeTemplates',
+        item_summary: 'Power Apps と power Automate で実装した Office ファイルへのデータ差し込み',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-OfficeTemplates',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
