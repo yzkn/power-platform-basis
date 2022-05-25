@@ -662,7 +662,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'PowerPlatform-PowerApps-PowerAutomate-OfficeTemplates/App01.png',
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-OfficeTemplates/OWA01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-OfficeTemplates',
         item_label: 'OfficeTemplates',
         item_summary: 'Power Apps と power Automate で実装した Office ファイルへのデータ差し込み',
