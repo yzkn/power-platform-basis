@@ -669,4 +669,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-OfficeTemplates',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-ProgressManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-ProgressManagement',
+        item_label: 'ProgressManagement',
+        item_summary: 'Power Apps と power Automate で実装した進捗管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-ProgressManagement',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
