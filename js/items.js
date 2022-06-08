@@ -677,4 +677,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-ProgressManagement',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-QrParticipationCertificate/App01.png',
+        item_title: 'PowerPlatform-PowerApps-QrParticipationCertificate',
+        item_label: 'QrParticipationCertificate',
+        item_summary: 'Power Apps で実装した QR コードを表示する参加証アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-QrParticipationCertificate',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
