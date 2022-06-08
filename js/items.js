@@ -685,4 +685,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-QrParticipationCertificate',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-Emoji/App01.png',
+        item_title: 'PowerPlatform-PowerApps-Emoji',
+        item_label: 'Emoji',
+        item_summary: 'Power Apps で実装した Emoji を一覧表示するアプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Emoji',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
