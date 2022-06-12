@@ -701,4 +701,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-SimpleToDo',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-Calculator/App01.png',
+        item_title: 'PowerPlatform-PowerApps-Calculator',
+        item_label: 'Calculator',
+        item_summary: 'Power Apps で実装した電卓アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Calculator',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
