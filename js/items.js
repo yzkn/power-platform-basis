@@ -693,4 +693,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Emoji',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-SimpleToDo/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-SimpleToDo',
+        item_label: 'SimpleToDo',
+        item_summary: 'Power Apps と power Automate で実装した ToDo アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-SimpleToDo',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
