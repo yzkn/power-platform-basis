@@ -709,4 +709,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Calculator',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-HierarchicalSocialBookmark/App01.png',
+        item_title: 'PowerPlatform-PowerApps-HierarchicalSocialBookmark',
+        item_label: 'HierarchicalSocialBookmark',
+        item_summary: 'Power Apps で実装した階層型ソーシャルブックマークアプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-HierarchicalSocialBookmark',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
