@@ -717,4 +717,20 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-HierarchicalSocialBookmark',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-QrInventoryControl/App01.png',
+        item_title: 'PowerPlatform-PowerApps-QrInventoryControl',
+        item_label: 'QrInventoryControl',
+        item_summary: 'Power Apps で実装したQRコードを読み取って棚卸を行う在庫管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-QrInventoryControl',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-LostAndFoundItemsManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-LostAndFoundItemsManagement',
+        item_label: 'LostAndFoundItemsManagement',
+        item_summary: 'Power Apps で実装した忘れ物管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-LostAndFoundItemsManagement',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
