@@ -733,4 +733,20 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-LostAndFoundItemsManagement',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-BlogManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-BlogManagement',
+        item_label: 'BlogManagement',
+        item_summary: 'Power Apps と power Automate で実装したブログ記事管理アプリ・承認フロー',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-BlogManagement',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-BrandManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-BrandManagement',
+        item_label: 'BrandManagement',
+        item_summary: 'Power Apps で実装したブランド資産管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-BrandManagement',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
