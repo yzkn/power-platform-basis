@@ -757,4 +757,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-ConferenceManagement',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-FavoriteRestaurant/App01.png',
+        item_title: 'PowerPlatform-PowerApps-FavoriteRestaurant',
+        item_label: 'FavoriteRestaurant',
+        item_summary: 'Power Apps で実装したお気に入りレストラン一覧アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-FavoriteRestaurant',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
