@@ -781,4 +781,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-TripPlanner',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-CallCenter/App01.png',
+        item_title: 'PowerPlatform-PowerApps-CallCenter',
+        item_label: 'CallCenter',
+        item_summary: 'Power Apps で実装したコールセンター通話履歴アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-CallCenter',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
