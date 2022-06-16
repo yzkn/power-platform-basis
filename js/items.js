@@ -773,4 +773,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-RecipeBook',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-TripPlanner/App01.png',
+        item_title: 'PowerPlatform-PowerApps-TripPlanner',
+        item_label: 'TripPlanner',
+        item_summary: 'Power Apps で実装した旅行計画アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-TripPlanner',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
