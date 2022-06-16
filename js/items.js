@@ -749,4 +749,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-BrandManagement',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-ConferenceManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-ConferenceManagement',
+        item_label: 'ConferenceManagement',
+        item_summary: 'Power Apps で実装したカンファレンス管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-ConferenceManagement',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
