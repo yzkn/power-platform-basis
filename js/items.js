@@ -765,4 +765,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-FavoriteRestaurant',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-RecipeBook/App01.png',
+        item_title: 'PowerPlatform-PowerApps-RecipeBook',
+        item_label: 'RecipeBook',
+        item_summary: 'Power Apps で実装したレシピブックアプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-RecipeBook',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
