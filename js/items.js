@@ -789,4 +789,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-CallCenter',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-BucketList/App01.png',
+        item_title: 'PowerPlatform-PowerApps-BucketList',
+        item_label: 'BucketList',
+        item_summary: 'Power Apps で実装した死ぬまでにやることリスト',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-BucketList',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
