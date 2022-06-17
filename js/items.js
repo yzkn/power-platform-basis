@@ -809,7 +809,7 @@ const repos = [
         item_image: 'PowerPlatform-PowerApps-GiftShopping/App01.png',
         item_title: 'PowerPlatform-PowerApps-GiftShopping',
         item_label: 'GiftShopping',
-        item_summary: 'Power Apps で実装したギフト販売管理アプリ',
+        item_summary: 'Power Apps で実装したギフト購入管理アプリ',
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-GiftShopping',
         item_tags: ['solution', 'powerapps'],
     },
