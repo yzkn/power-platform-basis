@@ -781,4 +781,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-TripPlanner',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-CarMaintenance/App01.png',
+        item_title: 'PowerPlatform-PowerApps-CarMaintenance',
+        item_label: 'CarMaintenance',
+        item_summary: 'Power Apps で実装した自動車整備記録簿アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-CarMaintenance',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
