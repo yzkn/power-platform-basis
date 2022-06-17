@@ -813,4 +813,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-GiftShopping',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-HomeInventory/App01.png',
+        item_title: 'PowerPlatform-PowerApps-HomeInventory',
+        item_label: 'HomeInventory',
+        item_summary: 'Power Apps で実装したHome Inventory（自宅向け在庫管理・情報整理）アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-HomeInventory',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
