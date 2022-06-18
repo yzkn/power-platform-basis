@@ -829,4 +829,20 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-PostMap',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-ToiletCleaningChecklist/App01.png',
+        item_title: 'PowerPlatform-PowerApps-ToiletCleaningChecklist',
+        item_label: 'ToiletCleaningChecklist',
+        item_summary: 'Power Apps で実装したトイレ掃除チェック表アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-ToiletCleaningChecklist',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-BusinessReport/App01.png',
+        item_title: 'PowerPlatform-PowerApps-BusinessReport',
+        item_label: 'BusinessReport',
+        item_summary: 'Power Apps で実装した作業報告書アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-BusinessReport',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
