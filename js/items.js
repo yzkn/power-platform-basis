@@ -845,4 +845,20 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-BusinessReport',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-EmergencyBagCheckList/App01.png',
+        item_title: 'PowerPlatform-PowerApps-EmergencyBagCheckList',
+        item_label: 'EmergencyBagCheckList',
+        item_summary: 'Power Apps で実装した非常時持出品チェックアプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-EmergencyBagCheckList',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-InterofficeMail/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-InterofficeMail',
+        item_label: 'InterofficeMail',
+        item_summary: 'Power Apps と power Automate で実装した社内便管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-InterofficeMail',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
