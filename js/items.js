@@ -821,4 +821,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-HomeInventory',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-PostMap/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-PostMap',
+        item_label: 'PostMap',
+        item_summary: 'Power Apps と power Automate で実装した郵便ポスト地図',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-PostMap',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
