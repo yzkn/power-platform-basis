@@ -846,11 +846,11 @@ const repos = [
         item_tags: ['solution', 'powerapps'],
     },
     {
-        item_image: 'PowerPlatform-PowerApps-EmergencyBagCheckList/App01.png',
-        item_title: 'PowerPlatform-PowerApps-EmergencyBagCheckList',
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-EmergencyBagCheckList/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-EmergencyBagCheckList',
         item_label: 'EmergencyBagCheckList',
         item_summary: 'Power Apps で実装した非常時持出品チェックアプリ',
-        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-EmergencyBagCheckList',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-EmergencyBagCheckList',
         item_tags: ['solution', 'powerapps'],
     },
     {
