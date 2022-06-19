@@ -861,4 +861,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-InterofficeMail',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-MichinoekiMap/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-MichinoekiMap',
+        item_label: 'MichinoekiMap',
+        item_summary: 'Power Apps で実装した道の駅検索アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-MichinoekiMap',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
