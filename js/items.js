@@ -893,4 +893,20 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-StaffManagement',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-NPOManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-NPOManagement',
+        item_label: 'NPOManagement',
+        item_summary: 'Power Apps と power Automate で実装したNPO向け管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-NPOManagement',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-PerformanceReview/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-PerformanceReview',
+        item_label: 'PerformanceReview',
+        item_summary: 'Power Apps と power Automate で実装した査定管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-PerformanceReview',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
