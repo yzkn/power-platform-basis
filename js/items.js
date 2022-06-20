@@ -933,4 +933,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-SoftwareBugTracker',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-CommercialRealEstateManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-CommercialRealEstateManagement',
+        item_label: 'CommercialRealEstateManagement',
+        item_summary: 'Power Apps で実装した商業用物件管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-CommercialRealEstateManagement',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
