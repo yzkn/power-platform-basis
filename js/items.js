@@ -917,4 +917,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-SoftwareRelease',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-LibraryInventory/App01.png',
+        item_title: 'PowerPlatform-PowerApps-LibraryInventory',
+        item_label: 'LibraryInventory',
+        item_summary: 'Power Apps と power Automate で実装した図書館蔵書管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-LibraryInventory',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
