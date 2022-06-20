@@ -925,4 +925,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-LibraryInventory',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-SoftwareBugTracker/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-SoftwareBugTracker',
+        item_label: 'SoftwareBugTracker',
+        item_summary: 'Power Apps と power Automate で実装したソフトウェアバグ追跡アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-SoftwareBugTracker',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
