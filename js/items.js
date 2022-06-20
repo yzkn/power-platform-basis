@@ -869,4 +869,28 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-MichinoekiMap',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-OfficeAssets/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-OfficeAssets',
+        item_label: 'OfficeAssets',
+        item_summary: 'Power Apps と power Automate で実装した社内資産管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-OfficeAssets',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-ContractManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-ContractManagement',
+        item_label: 'ContractManagement',
+        item_summary: 'Power Apps と power Automate で実装した契約書管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-ContractManagement',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-StaffManagement/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-StaffManagement',
+        item_label: 'StaffManagement',
+        item_summary: 'Power Apps と power Automate で実装したスタッフ派遣管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-StaffManagement',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
