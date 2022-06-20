@@ -909,4 +909,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-PerformanceReview',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-SoftwareRelease/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-SoftwareRelease',
+        item_label: 'SoftwareRelease',
+        item_summary: 'Power Apps と power Automate で実装したソフトウェアリリース計画アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-SoftwareRelease',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
