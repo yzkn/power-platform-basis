@@ -941,4 +941,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-CommercialRealEstateManagement',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-MedicalInstitutionAndPharmacySearch/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-MedicalInstitutionAndPharmacySearch',
+        item_label: 'MedicalInstitutionAndPharmacySearch',
+        item_summary: 'Power Apps と power Automate で実装した医療機関・薬局検索アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-MedicalInstitutionAndPharmacySearch',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
