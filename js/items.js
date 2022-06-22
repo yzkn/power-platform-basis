@@ -949,4 +949,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-MedicalInstitutionAndPharmacySearch',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-CheckInMeeting/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-CheckInMeeting',
+        item_label: 'CheckInMeeting',
+        item_summary: 'Power Apps と power Automate で実装したチェックインミーティングアプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-CheckInMeeting',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
