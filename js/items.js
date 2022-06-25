@@ -957,4 +957,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-CheckInMeeting',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-Nananiji/App01.png',
+        item_title: 'PowerPlatform-PowerApps-Nananiji',
+        item_label: 'Nananiji',
+        item_summary: 'Power Apps で実装したCV閲覧アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Nananiji',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
