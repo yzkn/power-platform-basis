@@ -965,4 +965,28 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-Nananiji',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-CrackInspection/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-CrackInspection',
+        item_label: 'CrackInspection',
+        item_summary: 'Power Apps と power Automate で実装したひび割れ点検アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-CrackInspection',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-CustomerFeedback/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-CustomerFeedback',
+        item_label: 'CustomerFeedback',
+        item_summary: 'Power Apps と power Automate で実装したお客様の声管理アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-CustomerFeedback',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'PowerPlatform-PowerApps-PowerAutomate-Wordbook/App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Wordbook',
+        item_label: 'Wordbook',
+        item_summary: 'Power Apps と power Automate で実装した単語集アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-Wordbook',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
