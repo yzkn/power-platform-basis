@@ -20,14 +20,14 @@ const load_banners = () => {
     banners.forEach((item, index) => {
         inner.push(`
         <div class="carousel-item` + (index == 0 ? ' active' : '') + `">
-            <img alt="${item['item_label']}" src="https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/${item['item_image']}">
+            <img alt="${item['item_label']}" src="https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/${item['item_title']}/${item['item_image']}">
 
             <div class="container">
                 <div class="carousel-caption text-end">
                     <h2 class="text-dark bg-white bg-opacity-50">${item['item_label']}</h1>
                         <p class="text-dark bg-white bg-opacity-50">${item['item_summary']}</p>
                         <p class="text-dark bg-white bg-opacity-50"><a class="btn btn-lg btn-primary"
-                                href="${item['item_repo']}" role="button"
+                                href="https://github.com/YA-androidapp/${item['item_title']}" role="button"
                                 target="_blank">リポジトリをみる</a></p>
                 </div>
             </div>
@@ -55,7 +55,7 @@ const load_repos = () => {
             <div class="card shadow-sm">
                 <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg"
                     role="img" focusable="false"
-                    style="background-size: cover; background-image: url(https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/${item['item_image']})">
+                    style="background-size: cover; background-image: url(https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/${item['item_title']}/${item['item_image']})">
                     <title>${item['item_title']}</title>
                     <text x="50%" y="50%" fill="#eceeef" dy=".3em">${item['item_label']}</text>
                 </svg>
@@ -63,8 +63,8 @@ const load_repos = () => {
                     <p class="card-text">${item['item_summary']}</p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
-                            <a class="btn btn-sm btn-outline-secondary" href="${item['item_repo']}" role="button" target="_blank">Repo</a>
-                            <span class="item_repo">${item['item_repo']}</span>
+                            <a class="btn btn-sm btn-outline-secondary" href="https://github.com/YA-androidapp/${item['item_title']}" role="button" target="_blank">Repo</a>
+                            <span class="item_repo">https://github.com/YA-androidapp/${item['item_title']}</span>
                         </div>
                         <small class="text-muted item_tag">
                             ${get_tag_html(item['item_tags'])}
