@@ -989,4 +989,12 @@ const repos = [
         item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-PowerAutomate-Wordbook',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'PowerPlatform-PowerApps-HotelRegister/App01.png',
+        item_title: 'PowerPlatform-PowerApps-HotelRegister',
+        item_label: 'HotelRegister',
+        item_summary: 'Power Apps で実装した旅館・ホテル用宿泊者名簿アプリ',
+        item_repo: 'https://github.com/YA-androidapp/PowerPlatform-PowerApps-HotelRegister',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
