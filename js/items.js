@@ -873,4 +873,11 @@ const repos = [
         item_summary: 'Power Apps で実装した旅館・ホテル用宿泊者名簿アプリ',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-WifiApManagement',
+        item_label: 'WifiAP',
+        item_summary: 'Power Apps で実装したWiFi親機管理アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
