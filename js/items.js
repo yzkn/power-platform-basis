@@ -884,14 +884,14 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-SurveyReport',
         item_label: 'SurveyReport',
-        item_summary: 'Power Apps と power Automate で実装した調査報告書アプリ',
+        item_summary: 'Power Apps と Power Automate で実装した調査報告書アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-DailyReport',
         item_label: 'DailyReport',
-        item_summary: 'Power Apps と power Automate で実装した業務日報アプリ',
+        item_summary: 'Power Apps と Power Automate で実装した業務日報・週報・月報アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
 ];
