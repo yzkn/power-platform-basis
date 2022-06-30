@@ -894,4 +894,11 @@ const repos = [
         item_summary: 'Power Apps と Power Automate で実装した業務日報・週報・月報アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-CustomerList',
+        item_label: 'CustomerList',
+        item_summary: 'Power Apps で実装した顧客リスト',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
