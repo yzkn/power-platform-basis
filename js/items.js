@@ -888,7 +888,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'App01.png',
+        item_image: 'Erd01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-DailyReport',
         item_label: 'DailyReport',
         item_summary: 'Power Apps と Power Automate で実装した業務日報・週報・月報アプリ',
