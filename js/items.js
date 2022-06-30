@@ -880,4 +880,18 @@ const repos = [
         item_summary: 'Power Apps で実装したWiFi親機管理アプリ',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-SurveyReport',
+        item_label: 'SurveyReport',
+        item_summary: 'Power Apps と power Automate で実装した調査報告書アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-DailyReport',
+        item_label: 'DailyReport',
+        item_summary: 'Power Apps と power Automate で実装した業務日報アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
