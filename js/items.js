@@ -908,4 +908,11 @@ const repos = [
         item_summary: 'Power Apps で実装した機械整備簿',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Covid19FeverTable',
+        item_label: 'Covid19FeverTable',
+        item_summary: 'Power Apps と Power Automate で実装した新型コロナ対策検温表アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
