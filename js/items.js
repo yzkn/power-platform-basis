@@ -901,4 +901,11 @@ const repos = [
         item_summary: 'Power Apps で実装した顧客リスト',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-MachineMaintenanceLog',
+        item_label: 'MachineMaintenanceLog',
+        item_summary: 'Power Apps で実装した機械整備簿',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
