@@ -915,4 +915,25 @@ const repos = [
         item_summary: 'Power Apps と Power Automate で実装した新型コロナ対策検温表アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-StudyReport',
+        item_label: 'StudyReport',
+        item_summary: 'Power Apps と Power Automate で実装した研修報告アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-EventProposal',
+        item_label: 'EventProposal',
+        item_summary: 'Power Apps と Power Automate で実装したイベント企画書アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-InternalDecisionRequest',
+        item_label: 'InternalDecisionRequest',
+        item_summary: 'Power Apps と Power Automate で実装した発注向け社内稟議アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
