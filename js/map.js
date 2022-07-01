@@ -36,7 +36,7 @@ const initMap = () => {
     addTileLayer();
     getJSON(geojsonFile);
 
-    map.setView([35.613065, 138.942796], 9);
+    map.setView([35.613065, 139.042796], 9);
 }
 
 const onEachFeature = (feature, layer) => {
