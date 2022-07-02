@@ -936,4 +936,18 @@ const repos = [
         item_summary: 'Power Apps と Power Automate で実装した発注向け社内稟議アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-BusinessModelCanvas',
+        item_label: 'BusinessModelCanvas',
+        item_summary: 'Power Apps で実装した BMC （ビジネスモデルキャンバス）',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-ReviewRecords',
+        item_label: 'ReviewRecords',
+        item_summary: 'Power Apps で実装したレビュー記録票',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
