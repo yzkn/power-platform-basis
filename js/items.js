@@ -950,4 +950,18 @@ const repos = [
         item_summary: 'Power Apps で実装したレビュー記録票',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-SchoolTimetable',
+        item_label: 'SchoolTimetable',
+        item_summary: 'Power Apps で実装した授業時間割アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-SkillSheet',
+        item_label: 'SkillSheet',
+        item_summary: 'Power Apps で実装した職務経歴書アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
