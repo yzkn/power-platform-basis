@@ -6,6 +6,7 @@ const get_tag_html = (tags) => {
         .replace('customconnector', '<span class="badge bg-customconnector">Custom Connector</span>')
         .replace('forms', '<span class="badge bg-forms">Forms</span>')
         .replace('powerapps', '<span class="badge bg-powerapps">Power Apps</span>')
+        .replace('powerpages', '<span class="badge bg-powerpages">Power Pages (Power Apps Portal)</span>')
         .replace('powerautomate', '<span class="badge bg-powerautomate">Power Automate</span>')
         .replace('powerbi', '<span class="badge bg-powerbi">Power BI</span>')
         .replace('solution', '<span class="badge bg-solution">Solution</span>')

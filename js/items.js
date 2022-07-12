@@ -969,6 +969,6 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-OnlinePetition',
         item_label: 'OnlinePetition',
         item_summary: 'Power Apps と Power Automate で実装したオンライン署名アプリ',
-        item_tags: ['solution', 'powerapps', 'powerautomate'],
+        item_tags: ['solution', 'powerapps', 'powerautomate', 'powerpages'],
     },
 ];
