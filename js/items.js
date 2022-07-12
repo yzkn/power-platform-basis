@@ -964,4 +964,11 @@ const repos = [
         item_summary: 'Power Apps で実装した職務経歴書アプリ',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-OnlinePetition',
+        item_label: 'OnlinePetition',
+        item_summary: 'Power Apps と Power Automate で実装したオンライン署名アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
