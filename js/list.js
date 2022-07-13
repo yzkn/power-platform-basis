@@ -57,11 +57,11 @@ const load_repos = () => {
                 <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg"
                     role="img" focusable="false"
                     style="background-size: cover; background-image: url(https://raw.githubusercontent.com/YA-androidapp/power-platform-basis/gh-pages/image/thumbnail/${item['item_title']}/${item['item_image']})">
-                    <title>${item['item_title']}</title>
+                    <title class="item_title">${item['item_title']}</title>
                     <text x="50%" y="50%" fill="#eceeef" dy=".3em">${item['item_label']}</text>
                 </svg>
                 <div class="card-body">
-                    <p class="card-text">${item['item_summary']}</p>
+                    <p class="card-text item_summary">${item['item_summary']}</p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <a class="btn btn-sm btn-outline-secondary" href="https://github.com/YA-androidapp/${item['item_title']}" role="button" target="_blank">Repo</a>
