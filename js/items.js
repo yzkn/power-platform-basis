@@ -985,4 +985,11 @@ const repos = [
         item_summary: 'Power Apps で実装した QR コード生成アプリ',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-BusinessCompletionReport',
+        item_label: 'BusinessCompletionReport',
+        item_summary: 'Power Apps で実装した作業完了報告書（作業時間報告書）アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
