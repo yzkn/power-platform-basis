@@ -992,4 +992,11 @@ const repos = [
         item_summary: 'Power Apps で実装した作業完了報告書（作業時間報告書）アプリ',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-BarcodeReaderPreview22101',
+        item_label: 'BarcodeReaderPreview22101',
+        item_summary: 'Power Apps で実装したバーコードリーダーアプリ（Released version 22101）',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
