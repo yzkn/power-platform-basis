@@ -997,6 +997,13 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-BarcodeReaderPreview22101',
         item_label: 'BarcodeReaderPreview22101',
         item_summary: 'Power Apps で実装したバーコードリーダーアプリ（Released version 22101）',
+        item_tags: ['powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-Pastebin',
+        item_label: 'Pastebin',
+        item_summary: 'Power Apps で実装した Pastebin',
         item_tags: ['solution', 'powerapps'],
     },
 ];
