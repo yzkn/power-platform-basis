@@ -1006,4 +1006,11 @@ const repos = [
         item_summary: 'Power Apps で実装した Pastebin',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Dataverse-View-Filtering-Date',
+        item_label: 'DataverseViewFilteringDate',
+        item_summary: 'Dataverse ビューでの日時フィルタリング',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
