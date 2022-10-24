@@ -1013,4 +1013,11 @@ const repos = [
         item_summary: 'Dataverse ビューでの日時フィルタリング',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-DateTimeCalendarPicker',
+        item_label: 'DateTimeCalendarPicker',
+        item_summary: 'Power Apps キャンバスアプリで実装した日時選択UI',
+        item_tags: ['powerapps'],
+    },
 ];
