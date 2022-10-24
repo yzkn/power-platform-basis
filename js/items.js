@@ -1018,6 +1018,6 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-DateTimeCalendarPicker',
         item_label: 'DateTimeCalendarPicker',
         item_summary: 'Power Apps キャンバスアプリで実装した日時選択UI',
-        item_tags: ['powerapps'],
+        item_tags: ['solution', 'powerapps'],
     },
 ];
