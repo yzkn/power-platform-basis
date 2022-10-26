@@ -1020,4 +1020,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで実装した日時選択UI',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-CanvasApp-Functions-Details',
+        item_label: 'CanvasAppFunctionsDetails',
+        item_summary: 'Power Apps キャンバスアプリの関数の実行例',
+        item_tags: ['powerapps'],
+    },
 ];
