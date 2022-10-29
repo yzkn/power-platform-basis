@@ -1027,4 +1027,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリの関数の実行例',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-HamLogBook',
+        item_label: 'HamLogBook',
+        item_summary: 'Power Apps で実装したアマチュア無線業務日誌',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
