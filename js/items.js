@@ -1034,4 +1034,11 @@ const repos = [
         item_summary: 'Power Apps で実装したアマチュア無線業務日誌',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-DigitalphotoFrame',
+        item_label: 'DigitalphotoFrame',
+        item_summary: 'Power Apps キャンバスアプリで実装したデジタルフォトフレーム',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
