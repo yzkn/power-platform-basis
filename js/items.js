@@ -1032,6 +1032,6 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-HamLogBook',
         item_label: 'HamLogBook',
         item_summary: 'Power Apps で実装したアマチュア無線業務日誌',
-        item_tags: ['solution', 'powerapps'],
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
 ];
