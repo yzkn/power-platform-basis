@@ -1041,4 +1041,18 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで実装したデジタルフォトフレーム',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-DrinkCounter',
+        item_label: 'DrinkCounter',
+        item_summary: 'Power Apps キャンバスアプリで実装したドリンクカウンター',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-GuestMembers',
+        item_label: 'GuestMembers',
+        item_summary: 'Power Apps キャンバスアプリで実装したゲストユーザー一覧アプリ',
+        item_tags: ['powerapps'],
+    },
 ];
