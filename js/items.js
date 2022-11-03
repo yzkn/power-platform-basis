@@ -1055,4 +1055,18 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで実装したゲストユーザー一覧アプリ',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-LocalFileTransfer',
+        item_label: 'LocalFileTransfer',
+        item_summary: 'Power Apps キャンバスアプリで実装したローカルファイル共有アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-EventEntranceRearrangingTicket',
+        item_label: 'EventEntranceRearrangingTicket',
+        item_summary: 'Power Apps キャンバスアプリで実装したイベントに抽選入場を導入するための整理券アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
