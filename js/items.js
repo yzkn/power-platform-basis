@@ -1076,4 +1076,11 @@ const repos = [
         item_summary: 'フリーアドレス制オフィスでの座席抽選を行う Power Apps キャンバスアプリ',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-BarcodeReaderVariousControls',
+        item_label: 'BarcodeReaderVariousControls',
+        item_summary: 'Power Apps で実装したバーコードリーダーアプリ（バーコード系コントロールの比較）',
+        item_tags: ['powerapps'],
+    },
 ];
