@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Power Platform 例題集</title>
+
+    <meta name="application-name" content="Power Platform 例題集" />
+    <meta name="author" content="YA-androidapp(https://github.com/YA-androidapp)" />
+    <meta name="description" content="Power Platformに関連するリポジトリの一覧" />
+    <meta name="keywords"
+        content="YA,YA-androidapp,GitHub,GitHub Pages,Power Platform,Dataverse,Dataverse for Teams,Power Apps,Power Automate,キャンバスアプリ,Power Apps ポータル,モデル駆動型アプリ,クラウドフロー,デスクトップフロー,カスタムコネクタ,例題,例題集,サンプルアプリ,デモアプリ" />
+
+    <meta name="msvalidate.01" content="A472E4B9E27EB6C6C1FC2495FF192398" />
+    <meta name="google-site-verification" content="71NxoWfRxzrrIhAChd-Zj03xebcehHDQhX-23-IZo-Q" />
+
+    <link rel="manifest" href="manifest.json">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin="" />
+    <link href="css/app.css" rel="stylesheet">
+    <link href="css/list.css" rel="stylesheet">
+    <link href="css/map.css" rel="stylesheet">
+
+    <script type="module">
+        import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+        const el = document.createElement('pwa-update');
+        document.body.appendChild(el);
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HP2FG0G5J1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-HP2FG0G5J1');
+    </script>
+</head>
+
+<body>
+    <header>
+        <div class="collapse bg-dark" id="navbarHeader">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-8 col-md-7 py-4">
+                        <h4 class="text-white">About</h4>
+                        <p class="text-muted">
+                            Power Platformで実装したアプリケーションの一覧です。
+                            特に明記していない場合、データストアには
+                            <a href="https://powerplatform.microsoft.com/ja-jp/dataverse/" target="_blank">Dataverse</a>
+                            を使用しています。
+                        </p>
+                    </div>
+                    <div class="col-sm-4 offset-md-1 py-4">
+                        <h4 class="text-white">Contact</h4>
+                        <ul class="list-unstyled">
+                            <li>
+                                <a href="https://github.com/ya-androidapp?tab=repositories&q=Power+Platform"
+                                    class="text-white">GitHub</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="navbar navbar-dark bg-dark shadow-sm">
+            <div class="container">
+                <a href="#" class="navbar-brand d-flex align-items-center">
+                    <strong>PowerPlatform 例題集</strong>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader"
+                    aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- アルバム -->
+        <div class="album py-5">
+            <div class="container">
+                <h1>PowerPlatform 例題集 (<span id="repos-count"></span>)</h1>
+
+                <div id="repos" class="mt-3">
+                    <input id="search" class="form-control search" placeholder="Search" />
+                    <button type="button" class="btn btn-secondary sort" data-sort="item_repo">
+                        Sort by repo
+                    </button>
+                    <button type="button" class="btn btn-secondary sort" data-sort="item_tag">
+                        Sort by tag
+                    </button>
+
+                    <div class="list row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 mt-3"></div>
+                </div>
+            </div>
+        </div>
+        <!-- アルバム -->
+
+        <!-- コードネーム -->
+        <div class="py-5">
+            <div class="container">
+                <h2>Codenames</h2>
+                <div class="bg-light p-3 m-4 rounded">
+                    <div id="map"></div>
+                </div>
+            </div>
+        </div>
+        <!-- コードネーム -->
+
+        <!-- カルーセル -->
+        <div class="py-5">
+            <div class="container">
+                <h2>PowerPlatform チュートリアル</h2>
+
+                <div id="myCarousel" class="carousel slide mt-3" data-bs-ride="carousel">
+                    <ol class="carousel-indicators"></ol>
+                    <div class="carousel-inner"></div>
+                    <a class="carousel-control-prev" href="#myCarousel" role="button" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">前へ</span>
+                    </a>
+                    <a class="carousel-control-next" href="#myCarousel" role="button" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">次へ</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- カルーセル -->
+
+        <!-- FOOTER -->
+        <footer class="container">
+            <p class="float-end"><a href="#">トップに戻る</a></p>
+            <p>Copyright &copy;
+                <script type="text/javascript">document.write((new Date()).getFullYear());</script>
+                <a href="https://github.com/YA-androidapp" target="_Blank">YA-androidapp</a>
+                All rights reserved.
+            </p>
+        </footer>
+        <!-- FOOTER -->
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+        crossorigin=""></script>
+
+    <script src="js/items.js"></script>
+    <script src="js/list.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/q.js"></script>
+</body>
+
+</html><!-- Copyright (c) 2022 YA-androidapp(https://github.com/YA-androidapp) All rights reserved. -->
