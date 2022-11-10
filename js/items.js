@@ -1083,4 +1083,11 @@ const repos = [
         item_summary: 'Power Apps で実装したバーコードリーダーアプリ（バーコード系コントロールの比較）',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-PowerBI-AttendanceManagement',
+        item_label: 'AttendanceManagement',
+        item_summary: 'Power Apps と Power Automate で実装した勤怠管理システム（打刻アプリ）',
+        item_tags: ['solution', 'powerapps', 'powerautomate', 'teams'],
+    },
 ];
