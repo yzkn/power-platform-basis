@@ -1097,4 +1097,11 @@ const repos = [
         item_summary: 'Power Apps と Power Automate 、 Power Pages で実装したコンテンツカタログページ・管理アプリ・承認フロー',
         item_tags: ['solution', 'powerapps', 'powerautomate', 'powerpages'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-TwitterSearchByDate',
+        item_label: 'TwitterSearchByDate',
+        item_summary: 'Power Appsで実装したツイート検索アプリ',
+        item_tags: ['powerapps'],
+    },
 ];
