@@ -1125,4 +1125,11 @@ const repos = [
         item_summary: 'AIBuilder の名刺リーダーの事前構築済みモデルを利用する、 Power Apps で実装した OCR アプリ',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-AIBuilder-SentimentAnalysis',
+        item_label: 'AIBuilderSentimentAnalysis',
+        item_summary: 'AIBuilder の感情分析の事前構築済みモデルを利用する、 Power Apps で実装したテキスト感情（ネガポジ）分析アプリ',
+        item_tags: ['powerapps'],
+    },
 ];
