@@ -3,6 +3,7 @@
 const get_tag_html = (tags) => {
     tags.sort();
     return tags.join(' ')
+        .replace('aibuilder', '<span class="badge bg-aibuilder">AI Builder</span>')
         .replace('customconnector', '<span class="badge bg-customconnector">Custom Connector</span>')
         .replace('forms', '<span class="badge bg-forms">Forms</span>')
         .replace('powerapps', '<span class="badge bg-powerapps">Power Apps</span>')
