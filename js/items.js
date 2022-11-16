@@ -1111,4 +1111,11 @@ const repos = [
         item_summary: 'Lobe.ai で生成した画像認識モデルを利用する、 Power Apps で実装した外観検査アプリ',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-AIBuilder-OCR-JPG-PNG-BMP-PDF',
+        item_label: 'AIBuilder-OCR',
+        item_summary: 'AIBuilder のテキスト認識の事前構築済みモデルを利用する、 Power Apps で実装した OCR アプリ',
+        item_tags: ['powerapps'],
+    },
 ];
