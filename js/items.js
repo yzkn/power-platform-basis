@@ -1101,7 +1101,14 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-TwitterSearchByDate',
         item_label: 'TwitterSearchByDate',
-        item_summary: 'Power Appsで実装したツイート検索アプリ',
+        item_summary: 'Power Apps で実装したツイート検索アプリ',
         item_tags: ['powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-AIBuilder-Lobe-AppearanceInspection',
+        item_label: 'AppearanceInspection',
+        item_summary: 'Lobe.ai で生成した画像認識モデルを利用する、 Power Apps で実装した外観検査アプリ',
+        item_tags: ['solution', 'powerapps'],
     },
 ];
