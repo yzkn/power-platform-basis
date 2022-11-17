@@ -4,7 +4,6 @@
 const geojsonFile = "repos.geojson";
 const githubUrl = "https://github.com/YA-androidapp/";
 let map = L.map('map');
-console.log('map', map)
 
 const addGeoJSONLayer = (geojson) => {
     var geojsonLayer = L.geoJSON(geojson, {
