@@ -1132,4 +1132,18 @@ const repos = [
         item_summary: 'AIBuilder の感情分析の事前構築済みモデルを利用する、 Power Apps で実装したテキスト感情（ネガポジ）分析アプリ',
         item_tags: ['aibuilder', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-MultipleImageUploader',
+        item_label: 'MultipleImageUploader',
+        item_summary: 'Power Apps キャンバスアプリで実装した複数ファイル対応の画像アップローダー',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-SVGAnalogClock',
+        item_label: 'SVGAnalogClock',
+        item_summary: 'Power Apps キャンバスアプリで実装したアナログ時計',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
