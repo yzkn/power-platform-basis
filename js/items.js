@@ -1164,7 +1164,7 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-IncidentManagement',
         item_label: 'ClaimManagement',
-        item_summary: 'Power Apps キャンバスアプリで実装したインシデント管理アプリ',
+        item_summary: 'Power Apps モデル駆動型アプリの「編集可能なグリッド」で実装したインシデント管理アプリ',
         item_tags: ['solution', 'powerapps'],
     },
     {
