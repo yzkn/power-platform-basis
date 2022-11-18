@@ -1150,14 +1150,14 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-SuggestionBox',
         item_label: 'SuggestionBox',
-        item_summary: 'Power Apps キャンバスアプリで実装したデジタル目安箱',
+        item_summary: 'Power Apps キャンバスアプリとモデル駆動型アプリで実装したデジタル目安箱',
         item_tags: ['solution', 'powerapps'],
     },
     {
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-ClaimManagement',
         item_label: 'ClaimManagement',
-        item_summary: 'Power Apps キャンバスアプリで実装したクレーム管理アプリ',
+        item_summary: 'Power Apps モデル駆動型アプリで実装したクレーム管理アプリ',
         item_tags: ['solution', 'powerapps'],
     },
     {
@@ -1171,7 +1171,7 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-CustomerVisitManagement',
         item_label: 'CustomerVisitManagement',
-        item_summary: 'Power Apps キャンバスアプリで実装した顧客訪問管理アプリ',
+        item_summary: 'Power Apps モデル駆動型アプリで実装した顧客訪問管理アプリ',
         item_tags: ['solution', 'powerapps'],
     },
 ];
