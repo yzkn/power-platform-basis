@@ -1174,4 +1174,11 @@ const repos = [
         item_summary: 'Power Apps モデル駆動型アプリで実装した顧客訪問管理アプリ',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-TrafficAccidentReport',
+        item_label: 'TrafficAccidentReport',
+        item_summary: 'Power Apps モデル駆動型アプリで実装した交通事故報告アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
