@@ -1178,7 +1178,7 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-TrafficAccidentReport',
         item_label: 'TrafficAccidentReport',
-        item_summary: 'Power Apps モデル駆動型アプリで実装した交通事故報告アプリ',
+        item_summary: 'Power Apps キャンバスアプリとモデル駆動型アプリで実装した交通事故報告アプリ',
         item_tags: ['solution', 'powerapps'],
     },
 ];
