@@ -4076,7 +4076,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "PowerPlatform-PowerApps-PowerAutomate-Q&AManagement 中條",
+        "name": "PowerPlatform-PowerApps-PowerAutomate-QAManagement 中條",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
         "_iconSize": [
@@ -4099,7 +4099,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "PowerPlatform-PowerApps-GraduatesManagement 院内",
+        "name": "PowerPlatform-PowerApps-AlumniManagement 院内",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
         "_iconSize": [
