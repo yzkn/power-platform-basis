@@ -1197,7 +1197,7 @@ const repos = [
     },
     {
         item_image: 'App01.png',
-        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Q&AManagement',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-QAManagement',
         item_label: 'Q&AManagement',
         item_summary: 'Power Apps と Power Automate で実装したQ&A管理システム',
         item_tags: ['solution', 'powerapps', 'powerautomate', 'forms'],
