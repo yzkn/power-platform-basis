@@ -639,7 +639,7 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-LostAndFoundItemsManagement',
         item_label: 'LostAndFoundItemsManagement',
-        item_summary: 'Power Apps で実装した忘れ物管理アプリ',
+        item_summary: 'Power Apps で実装した忘れ物管理アプリ（遺失物／拾得物）',
         item_tags: ['solution', 'powerapps'],
     },
     {
@@ -1179,6 +1179,34 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-TrafficAccidentReport',
         item_label: 'TrafficAccidentReport',
         item_summary: 'Power Apps キャンバスアプリとモデル駆動型アプリで実装した交通事故報告アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-HolidayWorkReport',
+        item_label: 'HolidayWorkReport',
+        item_summary: 'Power Apps と Power Automate で実装した休日出勤届アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-NewYearsGreetingCard',
+        item_label: 'NewYearsGreetingCard',
+        item_summary: 'Power Apps と Power Automate で実装した年賀状送付管理アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Q&AManagement',
+        item_label: 'Q&AManagement',
+        item_summary: 'Power Apps と Power Automate で実装したQ&A管理システム',
+        item_tags: ['solution', 'powerapps', 'powerautomate', 'forms'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-AlumniManagement',
+        item_label: 'AlumniManagement',
+        item_summary: 'Power Apps で実装した同窓生（卒業生）管理システム',
         item_tags: ['solution', 'powerapps'],
     },
 ];
