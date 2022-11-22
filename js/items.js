@@ -1209,4 +1209,11 @@ const repos = [
         item_summary: 'Power Apps で実装した同窓生（卒業生）管理システム',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-IdeaSharingAndVoting',
+        item_label: 'IdeaManagement',
+        item_summary: 'Power Apps で実装したアイディア共有・投票アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
