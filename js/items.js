@@ -1213,7 +1213,7 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-IdeaSharingAndVoting',
         item_label: 'IdeaManagement',
-        item_summary: 'Power Apps で実装したアイディア共有・投票アプリ',
+        item_summary: 'Power Apps と Power Automate で実装したアイディア共有・投票アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
 ];
