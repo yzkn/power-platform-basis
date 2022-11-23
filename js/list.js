@@ -48,6 +48,22 @@ const load_banners = () => {
     indicatorsElem.innerHTML = indicators.join();
 }
 
+const load_ideas = () => {
+    let inner = [];
+    ideas.sort(() => Math.random() - 0.5);
+    ideas.forEach(item => {
+        inner.push(`
+                    <li class="list-group-item">
+                        <input class="form-check-input me-1" type="checkbox" value="" aria-label="">
+                        ${item}
+                    </li>
+        `);
+    });
+
+    const listElem = document.getElementById('idea-list');
+    listElem.innerHTML = inner.join('');
+};
+
 const load_repos = () => {
     let inner = [];
     repos.sort(() => Math.random() - 0.5);
@@ -87,6 +103,7 @@ const load_repos = () => {
 
 window.addEventListener('DOMContentLoaded', () => {
     load_repos();
+    load_ideas();
     load_banners();
 
     new List('repos', {
