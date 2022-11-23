@@ -101,7 +101,6 @@ const ideas = [
     '製品生産量（歩留まり）集計',
     '請求書管理',
     '接待申請・承認',
-    '組織図',
     '損益計算書',
     '貸借対照表',
     '退職金シミュレーター',
@@ -1336,5 +1335,12 @@ const repos = [
         item_label: 'IdeaManagement',
         item_summary: 'Power Apps と Power Automate で実装したアイディア共有・投票アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-OrganizationChart',
+        item_label: 'OrganizationChart',
+        item_summary: 'Power Apps で実装した Azure AD 組織図アプリ',
+        item_tags: ['powerapps'],
     },
 ];
