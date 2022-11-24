@@ -1347,6 +1347,6 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-WorldClock',
         item_label: 'WorldClock',
         item_summary: 'Power Apps キャンバスアプリで実装した世界時計',
-        item_tags: ['solution', 'powerapps'],
+        item_tags: ['powerapps'],
     },
 ];
