@@ -111,7 +111,6 @@ const ideas = [
     '道路台帳',
     '読書記録',
     '捺印管理',
-    '日記',
     '日程調整アプリ',
     '入金消し込み',
     '年賀・中元管理',
@@ -1348,5 +1347,12 @@ const repos = [
         item_label: 'WorldClock',
         item_summary: 'Power Apps キャンバスアプリで実装した世界時計',
         item_tags: ['powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-Diary',
+        item_label: 'Diary',
+        item_summary: 'Power Apps で実装した日記',
+        item_tags: ['solution', 'powerapps'],
     },
 ];
