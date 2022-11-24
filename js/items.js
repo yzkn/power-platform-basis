@@ -1343,4 +1343,11 @@ const repos = [
         item_summary: 'Power Apps で実装した Azure AD 組織図アプリ',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-WorldClock',
+        item_label: 'WorldClock',
+        item_summary: 'Power Apps キャンバスアプリで実装した世界時計',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
