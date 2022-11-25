@@ -1356,7 +1356,7 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-IllustratedDiary',
         item_label: 'IllustratedDiary',
-        item_summary: 'Power Apps で実装した絵日記',
+        item_summary: 'Power Apps キャンバスアプリで実装した絵日記',
         item_tags: ['solution', 'powerapps'],
     },
     {
