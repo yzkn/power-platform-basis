@@ -2880,7 +2880,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "PowerPlatform-PowerApps-PowerAutomate-MedicalInstitutionAndPharmacySearch 明野",
+        "name": "PowerPlatform-PowerApps-PowerAutomate-MedicalInstitutionAndPharmacySearch 向日葵",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
         "_iconSize": [
@@ -4346,6 +4346,29 @@
         "coordinates": [
           139.54908,
           35.709126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-KitchenTimer 江草",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.505041,
+          35.81104
         ]
       }
     }

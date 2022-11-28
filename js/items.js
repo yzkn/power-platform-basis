@@ -24,7 +24,6 @@ const ideas = [
     'ToDoリスト（進捗トラッカー）',
     'アンケート収集・分析',
     'イベント計画表',
-    'キッチンタイマー',
     'キャッシュフロー予測',
     'クレジットカード利用履歴',
     'ゲームソフト管理',
@@ -1381,7 +1380,7 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-MeetingSchedule',
         item_label: 'MeetingSchedule',
         item_summary: 'Power Apps で実装した会議予定アプリ',
-        item_tags: ['solution', 'powerapps'],
+        item_tags: ['powerapps'],
     },
     {
         item_image: 'App01.png',
@@ -1389,5 +1388,12 @@ const repos = [
         item_label: 'Workout',
         item_summary: 'Power Apps で実装したワークアウト記録アプリ',
         item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-KitchenTimer',
+        item_label: 'KitchenTimer',
+        item_summary: 'Power Apps で実装したキッチンタイマーアプリ',
+        item_tags: ['powerapps'],
     },
 ];
