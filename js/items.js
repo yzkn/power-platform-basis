@@ -1402,4 +1402,11 @@ const repos = [
         item_summary: 'Power Apps と Power Automate で実装した機器台帳アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-SoundVoiceRecorder',
+        item_label: 'SoundVoiceRecorder',
+        item_summary: 'Power Apps で実装したボイスレコーダー（録音）アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
