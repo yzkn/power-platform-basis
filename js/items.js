@@ -54,7 +54,6 @@ const ideas = [
     '開発ロードマップ',
     '患者管理',
     '寄付金管理',
-    '機器台帳',
     '給与明細管理',
     '許認可管理',
     '契約管理',
@@ -1395,5 +1394,12 @@ const repos = [
         item_label: 'KitchenTimer',
         item_summary: 'Power Apps で実装したキッチンタイマーアプリ',
         item_tags: ['powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-EquipmentManagement',
+        item_label: 'EquipmentManagement',
+        item_summary: 'Power Apps と Power Automate で実装した機器台帳アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
 ];
