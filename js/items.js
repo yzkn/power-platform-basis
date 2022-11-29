@@ -20,8 +20,6 @@ const banners = [
 const ideas = [
     'Eラーニング・テスト',
     'IT資産管理',
-    'ToDoリスト（階層的）',
-    'ToDoリスト（進捗トラッカー）',
     'アンケート収集・分析',
     'イベント計画表',
     'キャッシュフロー予測',
@@ -1407,6 +1405,20 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-SoundVoiceRecorder',
         item_label: 'SoundVoiceRecorder',
         item_summary: 'Power Apps で実装したボイスレコーダー（録音）アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-ToDoHierarchically',
+        item_label: 'ToDoHierarchically',
+        item_summary: 'Power Apps で実装した階層型ToDoリストアプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-ToDoWorkProgress',
+        item_label: 'ToDoWorkProgress',
+        item_summary: 'Power Apps で実装した進捗トラッカーつきToDoリストアプリ',
         item_tags: ['solution', 'powerapps'],
     },
 ];
