@@ -1421,4 +1421,11 @@ const repos = [
         item_summary: 'Power Apps で実装した進捗トラッカーつきToDoリストアプリ',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-ToDoSortOrder',
+        item_label: 'ToDoSortOrder',
+        item_summary: 'Power Apps キャンバスアプリで実装した順番入れ替え機能つきToDoリストアプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
