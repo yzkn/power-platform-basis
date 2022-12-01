@@ -99,7 +99,6 @@ const ideas = [
     '塗り絵',
     '投薬スケジュール',
     '道路台帳',
-    '捺印管理',
     '日程調整アプリ',
     '入金消し込み',
     '年賀・中元管理',
@@ -1433,5 +1432,12 @@ const repos = [
         item_label: 'SeminarEvaluationSurvey',
         item_summary: 'Power Apps と Power Automate で実装したセミナーアンケート（フィードバック）集計',
         item_tags: ['solution', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-StampingManagement',
+        item_label: 'StampingManagement',
+        item_summary: 'Power Apps と Power Automate で実装した捺印管理アプリ（押印記録簿／押印申請ワークフロー）',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
 ];
