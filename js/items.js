@@ -31,7 +31,6 @@ const ideas = [
     'シフトカレンダー',
     'シラバス',
     'スキル届出',
-    'セミナーフィードバック集計',
     'タスク管理',
     'チラシデザイン管理',
     'デジタルパンフレット',
@@ -1427,5 +1426,12 @@ const repos = [
         item_label: 'ToDoSortOrder',
         item_summary: 'Power Apps キャンバスアプリで実装した順番入れ替え機能つきToDoリストアプリ',
         item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'Form01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-SeminarEvaluationSurvey',
+        item_label: 'SeminarEvaluationSurvey',
+        item_summary: 'Power Apps と Power Automate で実装したセミナーアンケート（フィードバック）集計',
+        item_tags: ['solution', 'powerautomate'],
     },
 ];
