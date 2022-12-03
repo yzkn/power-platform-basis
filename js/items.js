@@ -64,7 +64,6 @@ const ideas = [
     '採用管理',
     '仕入れ先管理',
     '支払申請管理',
-    '資料回覧',
     '資料掲示板',
     '自己紹介カード',
     '自動車運転履歴',
@@ -1438,6 +1437,13 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-StampingManagement',
         item_label: 'StampingManagement',
         item_summary: 'Power Apps と Power Automate で実装した捺印管理アプリ（押印記録簿／押印申請ワークフロー）',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-DocumentCirculationSystem',
+        item_label: 'DocumentCirculationSystem',
+        item_summary: 'Power Apps キャンバスアプリ・モデル駆動型アプリと Power Automate で実装した資料回覧システム',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
 ];
