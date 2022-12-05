@@ -1446,4 +1446,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリ・モデル駆動型アプリと Power Automate で実装した資料回覧システム',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-FlexibleWidthHorizontalGallery',
+        item_label: 'FlexibleWidthHorizontalGallery',
+        item_summary: 'Power Apps キャンバスアプリで実装した幅可変の水平ギャラリー',
+        item_tags: ['powerapps'],
+    },
 ];
