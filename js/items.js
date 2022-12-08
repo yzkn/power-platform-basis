@@ -1478,4 +1478,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで実装した幅可変の水平ギャラリー',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-ExperimentNote',
+        item_label: 'ExperimentNote',
+        item_summary: 'Power Apps キャンバスアプリ・モデル駆動型アプリと Power Automate で実装した実験ノート保全アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
