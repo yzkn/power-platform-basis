@@ -98,7 +98,7 @@ const load_repos = () => {
     listElem.innerHTML = inner.join();
 
     const countElem = document.getElementById('repos-count');
-    countElem.innerHTML = repos.length;
+    countElem.innerHTML = repos.length + ';' + ideas.length;
 }
 
 window.addEventListener('DOMContentLoaded', () => {
