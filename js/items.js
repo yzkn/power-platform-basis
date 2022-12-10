@@ -78,7 +78,6 @@ const ideas = [
     '資料掲示板',
     '自己紹介カード',
     '自動車運転履歴',
-    '実験ノート',
     '実験レポート提出',
     '社員教育管理',
     '社内報',
@@ -142,8 +141,8 @@ const ideas = [
     '旅行プランニング',
     '料理レシピ集',
     '連絡網',
+    '論文査読システム',
     '論文執筆・校正',
-    '論文提出',
 ];
 
 const repos = [
@@ -1482,7 +1481,14 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-ExperimentNote',
         item_label: 'ExperimentNote',
-        item_summary: 'Power Apps キャンバスアプリ・モデル駆動型アプリと Power Automate で実装した実験ノート保全アプリ',
+        item_summary: 'Power Apps モデル駆動型アプリと Power Automate で実装した実験ノート保全アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-PaperSubmission',
+        item_label: 'PaperSubmission',
+        item_summary: 'Power Apps キャンバスアプリ・モデル駆動型アプリと Power Automate で実装した学会発表論文投稿アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
 ];

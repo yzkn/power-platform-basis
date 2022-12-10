@@ -4582,7 +4582,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "駒場 PowerPlatform-PowerApps-PowerAutomate-ExperimentNote",
+        "name": "PowerPlatform-PowerApps-PowerAutomate-ExperimentNote 駒場",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
         "_iconSize": [
@@ -4599,6 +4599,29 @@
         "coordinates": [
           139.687182,
           35.657039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-PowerAutomate-PaperSubmission 湯本茶屋",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.089972,
+          35.222081
         ]
       }
     }
