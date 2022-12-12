@@ -51,7 +51,6 @@ const ideas = [
     '開発ロードマップ',
     '外出・遅刻・早退届',
     '活動報告書',
-    '株主名簿',
     '患者管理',
     '寄付金管理',
     '休暇申請',
@@ -1496,5 +1495,12 @@ const repos = [
         item_label: 'ConferenceRoomReservationTable',
         item_summary: 'Power Apps キャンバスアプリで実装した会議室予約確認表',
         item_tags: ['powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-ShareholderRegistry',
+        item_label: 'ShareholderRegistry',
+        item_summary: 'Power Apps キャンバスアプリで実装した株主名簿アプリ',
+        item_tags: ['solution', 'powerapps'],
     },
 ];
