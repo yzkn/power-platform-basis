@@ -1491,4 +1491,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリ・モデル駆動型アプリと Power Automate で実装した学会発表論文投稿アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-ConferenceRoomReservationTable',
+        item_label: 'ConferenceRoomReservationTable',
+        item_summary: 'Power Apps キャンバスアプリで実装した会議室予約確認表',
+        item_tags: ['powerapps'],
+    },
 ];
