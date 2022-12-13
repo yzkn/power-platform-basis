@@ -72,7 +72,6 @@ const ideas = [
     '仕入れ先管理',
     '始末書',
     '支払申請管理',
-    '施設利用申請',
     '資料掲示板',
     '自己紹介カード',
     '自動車運転履歴',
@@ -1502,5 +1501,12 @@ const repos = [
         item_label: 'ShareholderRegistry',
         item_summary: 'Power Apps キャンバスアプリで実装した株主名簿アプリ',
         item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-FacilitiesUseApplication',
+        item_label: 'FacilitiesUseApplication',
+        item_summary: 'Power Apps キャンバスアプリ・モデル駆動型アプリと Power Automate で実装した公共施設利用申請システム（市民ホール／公民館／スポーツ施設）',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
 ];
