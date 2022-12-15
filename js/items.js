@@ -65,7 +65,6 @@ const ideas = [
     '建物管理',
     '研究会発表',
     '固定資産管理',
-    '交際費申請',
     '校外学習のしおり',
     '採用管理',
     '残業届',
@@ -1507,6 +1506,13 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-FacilitiesUseApplication',
         item_label: 'FacilitiesUseApplication',
         item_summary: 'Power Apps キャンバスアプリ・モデル駆動型アプリと Power Automate で実装した公共施設利用申請システム（市民ホール／公民館／スポーツ施設）',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-EntertainmentExpensesManagement',
+        item_label: 'EntertainmentExpensesManagement',
+        item_summary: 'Power Apps キャンバスアプリ・モデル駆動型アプリと Power Automate で実装した交際費申請・管理アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
 ];
