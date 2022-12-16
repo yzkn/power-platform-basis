@@ -1505,14 +1505,14 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-FacilitiesUseApplication',
         item_label: 'FacilitiesUseApplication',
-        item_summary: 'Power Apps キャンバスアプリ・モデル駆動型アプリと Power Automate で実装した公共施設利用申請システム（市民ホール／公民館／スポーツ施設）',
+        item_summary: 'Power Apps モデル駆動型アプリで実装した公共施設利用申請システム（市民ホール／公民館／スポーツ施設）',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-EntertainmentExpensesManagement',
         item_label: 'EntertainmentExpensesManagement',
-        item_summary: 'Power Apps キャンバスアプリ・モデル駆動型アプリと Power Automate で実装した交際費申請・管理アプリ',
+        item_summary: 'Power Apps モデル駆動型アプリと Power Automate で実装した交際費申請・管理アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
 ];
