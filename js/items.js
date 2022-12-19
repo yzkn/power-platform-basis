@@ -1515,4 +1515,18 @@ const repos = [
         item_summary: 'Power Apps モデル駆動型アプリと Power Automate で実装した交際費申請・管理アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-MultipurposeApprovals-CanvasApp',
+        item_label: 'Approvals',
+        item_summary: 'Power Apps キャンバスアプリと Power Automate で実装した、多目的承認ワークフロー',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-MultipurposeApprovals-ModelDrivenApp',
+        item_label: 'Approvals',
+        item_summary: 'Power Apps モデル駆動型アプリと Power Automate で実装した、多目的承認ワークフロー',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
