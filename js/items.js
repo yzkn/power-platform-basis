@@ -114,7 +114,6 @@ const ideas = [
     '塗り絵',
     '投薬スケジュール',
     '道路台帳',
-    '日程調整アプリ',
     '入会申込',
     '入学願書提出',
     '入金消し込み',
@@ -1527,6 +1526,13 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-MultipurposeApprovals-ModelDrivenApp',
         item_label: 'Approvals',
         item_summary: 'Power Apps モデル駆動型アプリと Power Automate で実装した、多目的承認ワークフロー',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-ScheduleArrangement',
+        item_label: 'ScheduleArrangement',
+        item_summary: 'Power Apps キャンバスアプリと Power Automate で実装した日程調整アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
 ];
