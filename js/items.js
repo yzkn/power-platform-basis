@@ -1624,4 +1624,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリと Power Automate で実装した日程調整アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-EquipmentRentalManagement',
+        item_label: 'EquipmentRentalManagement',
+        item_summary: 'Power Apps で実装した備品貸出管理アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
