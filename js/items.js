@@ -181,8 +181,6 @@ const ideas = [
     '店舗管理',
     '店舗視察報告',
     '顛末書',
-    '電子カルテ',
-    '電子サイン',
     '電子書籍',
     '塗り絵',
     '投薬スケジュール',
@@ -1630,5 +1628,12 @@ const repos = [
         item_label: 'EquipmentRentalManagement',
         item_summary: 'Power Apps で実装した備品貸出管理アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-ElectronicSignature',
+        item_label: 'ElectronicSignature',
+        item_summary: 'Power Apps モデル駆動型アプリ／キャンバスアプリで実装した電子サイン',
+        item_tags: ['solution', 'powerapps'],
     },
 ];
