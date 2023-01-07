@@ -1643,4 +1643,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで実装したアナログストップウォッチ',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-MixedReality',
+        item_label: 'MixedReality',
+        item_summary: 'Power Apps キャンバスアプリで実装した MR ビューワー',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
