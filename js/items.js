@@ -1636,4 +1636,11 @@ const repos = [
         item_summary: 'Power Apps モデル駆動型アプリ／キャンバスアプリで実装した電子サイン',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-SVGAnalogStopwatch',
+        item_label: 'SVGAnalogStopwatch',
+        item_summary: 'Power Apps キャンバスアプリで実装したアナログストップウォッチ',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
