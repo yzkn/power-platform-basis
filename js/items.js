@@ -1641,6 +1641,6 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-SVGAnalogStopwatch',
         item_label: 'SVGAnalogStopwatch',
         item_summary: 'Power Apps キャンバスアプリで実装したアナログストップウォッチ',
-        item_tags: ['solution', 'powerapps'],
+        item_tags: ['powerapps'],
     },
 ];
