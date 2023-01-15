@@ -1745,9 +1745,9 @@ const repos = [
     },
     {
         item_image: 'App01.png',
-        item_title: 'PowerPlatform-PowerApps-TransportationBusiness-RollCallRecord',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-TransportationBusiness-RollCallRecord',
         item_label: 'TransportationBusinessRollCallRecord',
         item_summary: 'Power Apps モデル駆動型アプリで実装した運送業向け点呼記録簿アプリ',
-        item_tags: ['solution', 'powerapps'],
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
 ];
