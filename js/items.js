@@ -1730,7 +1730,7 @@ const repos = [
         item_tags: ['powerapps'],
     },
     {
-        item_image: 'App01.png',
+        item_image: 'iPad01.png',
         item_title: 'PowerPlatform-PowerApps-MixedReality',
         item_label: 'MixedReality',
         item_summary: 'Power Apps キャンバスアプリで実装した MR ビューワー',
