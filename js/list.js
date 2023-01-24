@@ -3,6 +3,7 @@
 const get_tag_html = (tags) => {
     tags.sort();
     return tags.join(' ')
+        .replace('aibuilder', '<span class="badge bg-aibuilder">AI Builder</span>')
         .replace('customconnector', '<span class="badge bg-customconnector">Custom Connector</span>')
         .replace('forms', '<span class="badge bg-forms">Forms</span>')
         .replace('powerapps', '<span class="badge bg-powerapps">Power Apps</span>')
@@ -47,6 +48,22 @@ const load_banners = () => {
     indicatorsElem.innerHTML = indicators.join();
 }
 
+const load_ideas = () => {
+    let inner = [];
+    ideas.sort(() => Math.random() - 0.5);
+    ideas.forEach(item => {
+        inner.push(`
+                    <li class="list-group-item">
+                        <input class="form-check-input me-1" type="checkbox" value="" aria-label="">
+                        ${item}
+                    </li>
+        `);
+    });
+
+    const listElem = document.getElementById('idea-list');
+    listElem.innerHTML = inner.join('');
+};
+
 const load_repos = () => {
     let inner = [];
     repos.sort(() => Math.random() - 0.5);
@@ -81,11 +98,12 @@ const load_repos = () => {
     listElem.innerHTML = inner.join();
 
     const countElem = document.getElementById('repos-count');
-    countElem.innerHTML = repos.length;
+    countElem.innerHTML = repos.length + ';' + ideas.length;
 }
 
 window.addEventListener('DOMContentLoaded', () => {
     load_repos();
+    load_ideas();
     load_banners();
 
     new List('repos', {
