@@ -1803,7 +1803,7 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-SecurityExportControl',
         item_label: 'SecurityExportControl',
-        item_summary: 'Power Apps モデル駆動型アプリで実装した安全保障貿易管理アプリ',
+        item_summary: 'Power Apps モデル駆動型アプリと Power Automate クラウドフローで実装した安全保障貿易管理アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
 ];
