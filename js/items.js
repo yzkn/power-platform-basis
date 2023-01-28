@@ -1806,4 +1806,11 @@ const repos = [
         item_summary: 'Power Apps モデル駆動型アプリと Power Automate クラウドフローで実装した安全保障貿易管理アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-FreezingAlert',
+        item_label: 'FreezingAlert',
+        item_summary: 'Power Apps と Power Automate クラウドフローで実装した水道管凍結アラート',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
