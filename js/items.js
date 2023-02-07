@@ -1813,4 +1813,11 @@ const repos = [
         item_summary: 'Power Apps と Power Automate クラウドフローで実装した水道管凍結アラート',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-InstallingCreatorKit',
+        item_label: 'CreatorKit',
+        item_summary: 'Creator Kit の検証',
+        item_tags: ['powerapps'],
+    },
 ];
