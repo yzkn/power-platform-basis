@@ -1820,4 +1820,11 @@ const repos = [
         item_summary: 'Creator Kit の検証',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-TideLevel',
+        item_label: 'TideLevel',
+        item_summary: '海上保安庁のリアルタイム験潮データを表示する Power Apps キャンバスアプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate', 'customconnector'],
+    },
 ];
