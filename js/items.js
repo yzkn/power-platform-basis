@@ -1832,4 +1832,11 @@ const repos = [
         item_summary: '海上保安庁のリアルタイム験潮データを表示する Power Apps キャンバスアプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate', 'customconnector'],
     },
+    {
+        item_image: 'VS01.png',
+        item_title: 'PowerPlatform-CSharp-FileOperations',
+        item_label: 'FileOperations',
+        item_summary: '.NETによるDataverseクライアントでファイル操作',
+        item_tags: ['solution'],
+    },
 ];
