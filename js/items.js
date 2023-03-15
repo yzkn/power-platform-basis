@@ -1839,4 +1839,11 @@ const repos = [
         item_summary: '.NETによるDataverseクライアントでファイル操作',
         item_tags: ['solution'],
     },
+    {
+        item_image: 'Flow01.png',
+        item_title: 'PowerPlatform-DataverseAPI-PowerAutomate-GetTableMetadata',
+        item_label: 'GetTableMetadata',
+        item_summary: 'Dataverse Web API を Power Automate クラウドフローから呼び出して、テーブル一覧を取得する',
+        item_tags: ['powerautomate'],
+    },
 ];
