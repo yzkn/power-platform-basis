@@ -1846,4 +1846,11 @@ const repos = [
         item_summary: 'Dataverse Web API を Power Automate クラウドフローから呼び出して、テーブル一覧を取得する',
         item_tags: ['powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-GradationMaker',
+        item_label: 'GradationMaker',
+        item_summary: 'グラデーション SVG を生成する Power Apps キャンバスアプリ',
+        item_tags: ['powerapps'],
+    },
 ];
