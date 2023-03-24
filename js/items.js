@@ -1853,4 +1853,11 @@ const repos = [
         item_summary: 'グラデーション SVG を生成する Power Apps キャンバスアプリ',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-MeetingSchedule-Temporary',
+        item_label: 'MeetingScheduleTemporary',
+        item_summary: 'Power Apps キャンバスアプリで実装した会議調整アプリ（仮予定登録）',
+        item_tags: ['powerapps'],
+    },
 ];
