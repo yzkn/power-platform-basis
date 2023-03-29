@@ -1864,7 +1864,7 @@ const repos = [
         item_image: 'Flow01.png',
         item_title: 'PowerPlatform-PowerAutomate-Dataverse-Image-Base64',
         item_label: 'DataverseImageBase64',
-        item_summary: 'Dataverseの画像列をPower Automate クラウドフローから利用する',
+        item_summary: 'Dataverse の 画像列を Power Automate クラウドフローから利用する（ Base64 エンコードされたコンテンツ・ファイル名・ファイルサイズを取得）',
         item_tags: ['powerautomate'],
     },
 ];
