@@ -1860,4 +1860,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで実装した会議調整アプリ（仮予定登録）　／　ParseJSON関数（プレビュー）のテスト',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'Flow01.png',
+        item_title: 'PowerPlatform-PowerAutomate-Dataverse-Image-Base64',
+        item_label: 'DataverseImageBase64',
+        item_summary: 'Dataverseの画像列をPower Automate クラウドフローから利用する',
+        item_tags: ['powerautomate'],
+    },
 ];
