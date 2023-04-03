@@ -1867,4 +1867,11 @@ const repos = [
         item_summary: 'Dataverse の 画像列を Power Automate クラウドフローから利用する（ Base64 エンコードされたコンテンツ・ファイル名・ファイルサイズを取得）',
         item_tags: ['powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-Dataverse-HorizontalApp',
+        item_label: 'Dataverse-HorizontalApp',
+        item_summary: 'スキャフォールディングしたのと同等の横向き Power Apps キャンバスアプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
