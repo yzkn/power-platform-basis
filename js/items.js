@@ -1874,4 +1874,11 @@ const repos = [
         item_summary: 'スキャフォールディングしたのと同等の横向き Power Apps キャンバスアプリ',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'Flow01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Dataverse-Import-Export',
+        item_label: 'Import/Export',
+        item_summary: 'Dataverse への一括インポート／エクスポート',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
