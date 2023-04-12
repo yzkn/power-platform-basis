@@ -505,7 +505,7 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-SharePoint-HorizontalApp',
         item_label: 'SharePoint-HorizontalApp',
-        item_summary: 'スキャフォールディングしたのと同等の横向き Power Apps キャンバスアプリ',
+        item_summary: 'スキャフォールディングしたのと同等の横向き Power Apps キャンバスアプリ（ SharePoint 用）',
         item_tags: ['solution', 'powerapps'],
     },
     {
@@ -1871,7 +1871,7 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-Dataverse-HorizontalApp',
         item_label: 'Dataverse-HorizontalApp',
-        item_summary: 'スキャフォールディングしたのと同等の横向き Power Apps キャンバスアプリ',
+        item_summary: 'スキャフォールディングしたのと同等の横向き Power Apps キャンバスアプリ（ Dataverse 用）',
         item_tags: ['solution', 'powerapps'],
     },
     {
