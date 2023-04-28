@@ -5153,6 +5153,52 @@
           35.612891
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "舎人 PowerPlatform-PowerApps-PowerAutomate-MSTeams-Backup",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.770904,
+          35.800699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "平野 PowerPlatform-PowerApps-Clipboard",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.894605,
+          35.420807
+        ]
+      }
     }
   ]
 }

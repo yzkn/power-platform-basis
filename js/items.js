@@ -1892,4 +1892,18 @@ const repos = [
         item_summary: 'Dataverse への一括インポート／エクスポート',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-MSTeams-Backup',
+        item_label: 'MSTeams-Backup',
+        item_summary: 'Teams メッセージをバックアップする Power Automate クラウドフロー',
+        item_tags: ['solution', 'powerapps', 'powerautomate', 'teams'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-Clipboard',
+        item_label: 'Clipboard',
+        item_summary: 'Power Apps キャンバスアプリからクリップボードにテキストをコピーする',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
