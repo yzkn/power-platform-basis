@@ -1893,7 +1893,7 @@ const repos = [
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
-        item_image: 'App01.png',
+        item_image: 'Flow01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-MSTeams-Backup',
         item_label: 'MSTeams-Backup',
         item_summary: 'Teams メッセージをバックアップする Power Automate クラウドフロー',
