@@ -1906,4 +1906,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリからクリップボードにテキストをコピーする',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-Generating-PDF',
+        item_label: 'PDF',
+        item_summary: 'Power Apps キャンバスアプリで実装した PDF 生成・表示アプリ',
+        item_tags: ['powerapps'],
+    },
 ];
