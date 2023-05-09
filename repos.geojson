@@ -5222,6 +5222,29 @@
           35.660657
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "篭坂 PowerPlatform-PowerApps-OfflineMemo",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.864055,
+          35.39268
+        ]
+      }
     }
   ]
 }

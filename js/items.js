@@ -47,7 +47,6 @@ const ideas = [
     'インターネットラジオ',
     'エントリーシート受付',
     'オンライン朝礼／朝会／夕会',
-    'オフラインメモ',
     'カスタムフォント一覧',
     'キャッシュフロー予測',
     'キャンペーン実施管理',
@@ -1913,6 +1912,13 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-Generating-PDF',
         item_label: 'PDF',
         item_summary: 'Power Apps キャンバスアプリで実装した PDF 生成・表示アプリ',
+        item_tags: ['powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-OfflineMemo',
+        item_label: 'OfflineMemo',
+        item_summary: 'Power Apps キャンバスアプリで実装したオフラインメモアプリ',
         item_tags: ['powerapps'],
     },
 ];
