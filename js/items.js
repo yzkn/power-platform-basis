@@ -32,6 +32,7 @@ const ideas = [
     'IR情報公開',
     'IT資産管理',
     'Microsoft 365グループ作成フロー',
+    'NFCタグリーダー',
     'Office 365グループ管理',
     'RFIDリーダー',
     'Teamsゲストユーザー追加申請・承認',
