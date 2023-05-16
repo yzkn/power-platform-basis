@@ -5157,7 +5157,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "舎人 PowerPlatform-PowerApps-PowerAutomate-MSTeams-Backup",
+        "name": "PowerPlatform-PowerApps-PowerAutomate-MSTeams-Backup 舎人",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
         "_iconSize": [
@@ -5180,7 +5180,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "平野 PowerPlatform-PowerApps-Clipboard",
+        "name": "PowerPlatform-PowerApps-Clipboard 平野",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
         "_iconSize": [
@@ -5203,7 +5203,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "麻布 PowerPlatform-PowerApps-Generating-PDF",
+        "name": "PowerPlatform-PowerApps-Generating-PDF 麻布",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
         "_iconSize": [
@@ -5226,7 +5226,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "篭坂 PowerPlatform-PowerApps-OfflineMemo",
+        "name": "PowerPlatform-PowerApps-OfflineMemo 篭坂",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
         "_iconSize": [
@@ -5243,6 +5243,29 @@
         "coordinates": [
           138.864055,
           35.39268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-AIBuilder-OCR-BusinessCardManagement 代官山",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704552,
+          35.650671
         ]
       }
     }

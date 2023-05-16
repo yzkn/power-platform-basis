@@ -1921,4 +1921,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで実装したオフラインメモアプリ',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-AIBuilder-OCR-BusinessCardManagement',
+        item_label: 'BusinessCardManagement',
+        item_summary: 'AIBuilder の OCR 名刺リーダーの事前構築済みモデルを利用する、 Power Apps キャンバスアプリ・モデル駆動型アプリで実装した名刺管理アプリ',
+        item_tags: ['solution', 'aibuilder', 'powerapps', 'powerautomate', 'teams'],
+    },
 ];
