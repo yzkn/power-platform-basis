@@ -1928,4 +1928,11 @@ const repos = [
         item_summary: 'AIBuilder の OCR 名刺リーダーの事前構築済みモデルを利用する、 Power Apps キャンバスアプリ・モデル駆動型アプリで実装した名刺管理アプリ',
         item_tags: ['solution', 'aibuilder', 'powerapps', 'powerautomate', 'teams'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-ModelDrivenApp-LostAndFoundItemsManagement',
+        item_label: 'LostAndFoundItemsManagementModelDrivenApp',
+        item_summary: 'Power Apps モデル駆動型アプリアプリで実装した忘れ物管理アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
