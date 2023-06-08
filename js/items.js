@@ -1935,4 +1935,11 @@ const repos = [
         item_summary: 'Power Apps モデル駆動型アプリアプリで実装した忘れ物管理アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-PasswordIssuance',
+        item_label: 'PasswordIssuance',
+        item_summary: 'ランダムパスワードを発行・管理する Power Apps モデル駆動型アプリ＋カスタムページ＋ Power Automate クラウドフロー',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
