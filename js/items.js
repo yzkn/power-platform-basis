@@ -1784,7 +1784,7 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-MultipurposeApprovals-ModelDrivenApp',
         item_label: 'Approvals',
-        item_summary: 'Power Apps モデル駆動型アプリと Power Automate で実装した、多目的承認ワークフロー',
+        item_summary: 'Power Apps モデル駆動型アプリと Power Automate 、ビジネスルール、ビジネスプロセスフローで実装した、多目的承認ワークフロー ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
