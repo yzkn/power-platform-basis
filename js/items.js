@@ -1969,4 +1969,11 @@ const repos = [
         item_summary: 'Power Apps モデル駆動型アプリと Power Automate クラウドフローで実装したマイカー通勤申請アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-MediaPlayer',
+        item_label: 'MediaPlayer',
+        item_summary: 'Power Apps モデル駆動型アプリと Power Automate クラウドフローで実装したマルチメディアプレーヤーアプリ（動画／音楽）',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
