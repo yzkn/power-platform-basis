@@ -5,7 +5,7 @@
   "short_name": "Power Platform 例題集",
   "scope": "/power-platform-basis/",
   "display": "standalone",
-  "start_url": "https://ya-androidapp.github.io/power-platform-basis/",
+  "start_url": "https://yzkn.github.io/power-platform-basis/",
   "background_color": "#ffffff",
   "theme_color": "transparent",
   "description": "Power Platformに関連するリポジトリの一覧",
@@ -19,6 +19,6 @@
       "type": "image/png"
     }
   ],
-  "url": "https://ya-androidapp.github.io/power-platform-basis/",
+  "url": "https://yzkn.github.io/power-platform-basis/",
   "generated": true
 }
