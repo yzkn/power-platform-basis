@@ -1,8 +1,8 @@
-// Copyright (c) 2023 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
+// Copyright (c) 2023 YA-androidapp(https://github.com/yzkn) All rights reserved.
 
 
 const geojsonFile = "repos.geojson";
-const githubUrl = "https://github.com/YA-androidapp/";
+const githubUrl = "https://github.com/yzkn/";
 let map = L.map('map');
 
 const addGeoJSONLayer = (geojson) => {

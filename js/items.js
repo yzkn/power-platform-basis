@@ -1,4 +1,4 @@
-﻿// Copyright (c) 2023 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
+﻿// Copyright (c) 2023 YA-androidapp(https://github.com/yzkn) All rights reserved.
 
 const banners = [
     {
@@ -495,14 +495,14 @@ const repos = [
         item_image: 'App.png',
         item_title: 'PowerPlatform-PowerApps-Clocks',
         item_label: 'Clocks',
-        item_summary: '<a href="https://github.com/YA-androidapp/PowerPlatform-PowerApps-AppFramework">AppFramework</a>からアナログ時計コンポーネントのみ切り出し、デジタル時計を追加（ Power Apps キャンバスアプリ）',
+        item_summary: '<a href="https://github.com/yzkn/PowerPlatform-PowerApps-AppFramework">AppFramework</a>からアナログ時計コンポーネントのみ切り出し、デジタル時計を追加（ Power Apps キャンバスアプリ）',
         item_tags: ['solution', 'powerapps'],
     },
     {
         item_image: 'MainScreen.png',
         item_title: 'PowerPlatform-PowerApps-Otowa',
         item_label: 'Otowa',
-        item_summary: '<a href="https://github.com/YA-androidapp/Otowa">Otowa</a> を Power Apps キャンバスアプリに移植',
+        item_summary: '<a href="https://github.com/yzkn/Otowa">Otowa</a> を Power Apps キャンバスアプリに移植',
         item_tags: ['solution', 'powerapps'],
     },
     {
