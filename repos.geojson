@@ -5360,6 +5360,29 @@
           35.626989
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-WebResource-DataverseWebAPI-TableDefinition 万力",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.672497,
+          35.690328
+        ]
+      }
     }
   ]
 }

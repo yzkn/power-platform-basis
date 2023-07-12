@@ -1976,4 +1976,11 @@ const repos = [
         item_summary: 'Power Apps モデル駆動型アプリと Power Automate クラウドフローで実装したマルチメディアプレーヤーアプリ（動画／音楽）',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-WebResource-DataverseWebAPI-TableDefinition',
+        item_label: 'TableDefinition',
+        item_summary: 'Power Apps モデル駆動型アプリと JavaScript Web リソースで実装した Dataverse テーブル定義確認アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
