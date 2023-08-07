@@ -1990,4 +1990,11 @@ const repos = [
         item_summary: 'Dataverse Web API を Power Automate クラウドフローから呼び出して、ER図を生成する',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-StringOperators',
+        item_label: 'Operators',
+        item_summary: 'Power Apps 文字列比較演算子',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
