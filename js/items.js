@@ -1976,4 +1976,25 @@ const repos = [
         item_summary: 'Power Apps モデル駆動型アプリと Power Automate クラウドフローで実装したマルチメディアプレーヤーアプリ（動画／音楽）',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-WebResource-DataverseWebAPI-TableDefinition',
+        item_label: 'TableDefinition',
+        item_summary: 'Power Apps モデル駆動型アプリと JavaScript Web リソースで実装した Dataverse テーブル定義確認アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-DataverseAPI-PowerAutomate-GetTableMetadata-ERDiagram',
+        item_label: 'ERDiagram',
+        item_summary: 'Dataverse Web API を Power Automate クラウドフローから呼び出して、ER図を生成する',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-StringOperators',
+        item_label: 'Operators',
+        item_summary: 'Power Apps 文字列比較演算子',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
