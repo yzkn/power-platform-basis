@@ -1997,4 +1997,11 @@ const repos = [
         item_summary: 'Power Apps 文字列比較演算子',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-Authenticator-TOTP',
+        item_label: 'AuthenticatorTOTP',
+        item_summary: 'Power Apps モデル駆動型アプリで実装した TOTP 認証アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
