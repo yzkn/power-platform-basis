@@ -1973,7 +1973,7 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-MediaPlayer',
         item_label: 'MediaPlayer',
-        item_summary: 'Power Apps モデル駆動型アプリと Power Automate クラウドフローで実装したマルチメディアプレーヤーアプリ（動画／音楽）',
+        item_summary: 'Power Apps モデル駆動型アプリと Power Automate クラウドフローで実装したマルチメディアプレーヤーアプリ（動画／音楽； mp3tag.js を利用したMP3 ID3タグ情報取得）',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
     {
