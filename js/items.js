@@ -446,7 +446,7 @@ const repos = [
         item_image: 'Canvasapp.png',
         item_title: 'PowerPlatform-CustomConnector-CSharp-Cryptography',
         item_label: 'Cryptography',
-        item_summary: 'C#カスタムコネクタで暗号化・復号化する Power Apps キャンバスアプリ',
+        item_summary: 'C#カスタムコネクタで AES 暗号化・復号化する Power Apps キャンバスアプリ',
         item_tags: ['solution', 'powerapps', 'customconnector'],
     },
     {
@@ -1974,14 +1974,14 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-PowerAutomate-MediaPlayer',
         item_label: 'MediaPlayer',
         item_summary: 'Power Apps モデル駆動型アプリと Power Automate クラウドフローで実装したマルチメディアプレーヤーアプリ（動画／音楽； mp3tag.js を利用したMP3 ID3タグ情報取得）',
-        item_tags: ['solution', 'powerapps', 'powerautomate'],
+        item_tags: ['solution', 'powerapps', 'powerautomate', 'webresource'],
     },
     {
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-WebResource-DataverseWebAPI-TableDefinition',
         item_label: 'TableDefinition',
         item_summary: 'Power Apps モデル駆動型アプリと JavaScript Web リソースで実装した Dataverse テーブル定義確認アプリ',
-        item_tags: ['solution', 'powerapps'],
+        item_tags: ['solution', 'powerapps', 'webresource'],
     },
     {
         item_image: 'App01.png',
@@ -2002,13 +2002,20 @@ const repos = [
         item_title: 'PowerPlatform-PowerApps-Authenticator-TOTP',
         item_label: 'AuthenticatorTOTP',
         item_summary: 'Power Apps モデル駆動型アプリで実装した TOTP 認証アプリ',
-        item_tags: ['solution', 'powerapps'],
+        item_tags: ['solution', 'powerapps', 'webresource'],
     },
     {
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-WebResource-AESEncryption',
         item_label: 'AESEncryption',
         item_summary: 'Power Apps モデル駆動型アプリで実装した AES 暗号化アプリ',
-        item_tags: ['solution', 'powerapps'],
+        item_tags: ['solution', 'powerapps', 'webresource'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-HashFunction-SHA',
+        item_label: 'AESEncryption',
+        item_summary: 'Power Apps モデル駆動型アプリで実装したハッシュ化アプリ（SHA-256などの暗号学的ハッシュ関数）',
+        item_tags: ['solution', 'powerapps', 'webresource'],
     },
 ];

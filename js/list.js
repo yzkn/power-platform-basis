@@ -13,6 +13,7 @@ const get_tag_html = (tags) => {
         .replace('solution', '<span class="badge bg-solution">Solution</span>')
         .replace('teams', '<span class="badge bg-teams">Teams</span>')
         .replace('tutorial', '<span class="badge bg-tutorial">Tutorial</span>')
+        .replace('webresource', '<span class="badge bg-webresource">Web resource</span>')
         ;
 }
 
