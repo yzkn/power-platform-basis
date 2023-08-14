@@ -2004,4 +2004,11 @@ const repos = [
         item_summary: 'Power Apps モデル駆動型アプリで実装した TOTP 認証アプリ',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-WebResource-AESEncryption',
+        item_label: 'AESEncryption',
+        item_summary: 'Power Apps モデル駆動型アプリで実装した AES 暗号化アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
