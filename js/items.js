@@ -2018,4 +2018,18 @@ const repos = [
         item_summary: 'Power Apps モデル駆動型アプリで実装したハッシュ化アプリ（SHA-256などの暗号学的ハッシュ関数）',
         item_tags: ['solution', 'powerapps', 'webresource'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-Leaflet-GsiMap',
+        item_label: 'GsiMap',
+        item_summary: '地理院地図を Leaflet を利用して Power Apps モデル駆動型アプリに表示する',
+        item_tags: ['solution', 'powerapps', 'webresource'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-WebResource-ButtonClickEvent-Bootstrap3',
+        item_label: 'ButtonClickEvent',
+        item_summary: 'Power Apps モデル駆動型アプリのフォームに Bootstrap3 スタイルのボタンを含む Web リソースを配置し、クリックイベントを設定する手順の検証',
+        item_tags: ['solution', 'powerapps', 'webresource'],
+    },
 ];
