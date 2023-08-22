@@ -2032,4 +2032,11 @@ const repos = [
         item_summary: 'Power Apps モデル駆動型アプリのフォームに Bootstrap3 スタイルのボタンを含む Web リソースを配置し、クリックイベントを設定する手順の検証',
         item_tags: ['solution', 'powerapps', 'webresource'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-NcodeSyosetu-Reader-Offline',
+        item_label: 'NcodeSyosetuReader',
+        item_summary: 'Power Apps キャンバスアプリで実装したなろう小説リーダー（オフライン対応）',
+        item_tags: ['powerapps'],
+    },
 ];
