@@ -2039,4 +2039,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで実装したなろう小説リーダー（オフライン対応）',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Dataverse-UnboundAction-ShareAndAssign',
+        item_label: 'ShareAndAssign',
+        item_summary: 'Dataverse アクション（バインドされていないアクション）を Power Automate クラウドフローから呼び出して、レコードの共有／レコードの割り当てを行う',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
