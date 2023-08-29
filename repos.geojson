@@ -5590,6 +5590,29 @@
           35.528101
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-PowerAutomate-TileMap-JmaNowcast-CoordinateConversion 平瀬",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.544137,
+          35.713112
+        ]
+      }
     }
   ]
 }
