@@ -2053,4 +2053,11 @@ const repos = [
         item_summary: '経緯度で指定された特定地点を含むタイル地図画像を取得して Power Apps キャンバスアプリに表示する（経緯度からピクセル座標への座標変換）・数式を MathJax を利用して Web リソースに表示',
         item_tags: ['solution', 'powerapps', 'powerautomate', 'webresource'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-NestedGallery',
+        item_label: 'NestedGallery',
+        item_summary: 'Power Apps キャンバスアプリで入れ子ギャラリー',
+        item_tags: ['powerapps'],
+    },
 ];
