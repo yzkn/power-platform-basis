@@ -2060,4 +2060,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで入れ子ギャラリー',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-Himawari-Image',
+        item_label: 'Himawari',
+        item_summary: 'Power Apps キャンバスアプリに気象衛星ひまわりの画像を表示',
+        item_tags: ['powerapps'],
+    },
 ];
