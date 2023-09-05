@@ -2067,4 +2067,18 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリに気象衛星ひまわりの画像を表示',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PCF-CanvasApp-MyIframe',
+        item_label: 'MyIframe',
+        item_summary: 'Power Apps キャンバスアプリに iframe （インラインフレーム）を埋め込むためのコードコンポーネント',
+        item_tags: ['solution', 'powerapps', 'pcf'],
+    },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PCF-CanvasApp-MyJS',
+        item_label: 'MyJS',
+        item_summary: 'Power Apps キャンバスアプリに JavaScript コードを埋め込むためのコードコンポーネント',
+        item_tags: ['solution', 'powerapps', 'pcf'],
+    },
 ];
