@@ -2081,4 +2081,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリに JavaScript コードを埋め込むためのコードコンポーネント',
         item_tags: ['solution', 'powerapps', 'pcf'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PCF-CanvasApp-MyIframe-WebResource-MapIframe',
+        item_label: 'WebResourceMapIframe',
+        item_summary: 'Power Apps キャンバスアプリのコードコンポーネントを利用して Web リソースを iframe （インラインフレーム）で埋め込む',
+        item_tags: ['solution', 'powerapps', 'pcf'],
+    },
 ];
