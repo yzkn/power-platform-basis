@@ -2088,4 +2088,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリのコードコンポーネントを利用して Web リソースを iframe （インラインフレーム）で埋め込む',
         item_tags: ['solution', 'powerapps', 'pcf'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PCF-ModelDrivenApp-MyIframe-WebResource-MapIframe',
+        item_label: 'WebResourceMapIframeModelDrivenApp',
+        item_summary: 'Power Apps モデル駆動型アプリのコードコンポーネントを利用して Web リソースを iframe （インラインフレーム）で埋め込む',
+        item_tags: ['solution', 'powerapps', 'pcf'],
+    },
 ];
