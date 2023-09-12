@@ -2095,4 +2095,11 @@ const repos = [
         item_summary: 'Power Apps モデル駆動型アプリのコードコンポーネントを利用して Web リソースを iframe （インラインフレーム）で埋め込む',
         item_tags: ['solution', 'powerapps', 'pcf'],
     },
+    {
+        item_image: 'Flow01.png',
+        item_title: 'PowerPlatform-PowerAutomate-ChangingOwnerFlow',
+        item_label: 'ChangingOwnerFlow',
+        item_summary: 'Dataverse レコードの所有者を変更する Power Automate クラウドフロー',
+        item_tags: ['solution', 'powerautomate'],
+    },
 ];
