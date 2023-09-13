@@ -2102,4 +2102,11 @@ const repos = [
         item_summary: 'Dataverse レコードの所有者を変更する Power Automate クラウドフロー',
         item_tags: ['solution', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-KnowledgeManagement',
+        item_label: 'KnowledgeManagement',
+        item_summary: 'Power Apps キャンバスアプリと Power Automate で実装したナレッジ管理アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];

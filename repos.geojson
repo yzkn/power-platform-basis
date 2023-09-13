@@ -4122,7 +4122,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "PowerPlatform-PowerApps-IdeaManagement 明野",
+        "name": "PowerPlatform-PowerApps-PowerAutomate-IdeaSharingAndVoting 明野",
         "_markerType": "Icon",
         "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
         "_iconSize": [
@@ -5772,6 +5772,29 @@
         "coordinates": [
           138.564028,
           35.673993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PowerPlatform-PowerApps-PowerAutomate-KnowledgeManagement 上手",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.448366,
+          35.766825
         ]
       }
     }
