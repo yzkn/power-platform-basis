@@ -2109,4 +2109,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリと Power Automate で実装したナレッジ管理アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-WebScraping-Weather',
+        item_label: 'WebScrapingWeather',
+        item_summary: 'Power Apps キャンバスアプリと Power Automate クラウドフローで実装した Web スクレイピングによる天気予報アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
