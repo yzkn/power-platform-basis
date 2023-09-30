@@ -2120,7 +2120,7 @@ const repos = [
         item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-QrEquipmentRentalManagement',
         item_label: 'QrEquipmentRentalManagement',
-        item_summary: 'Power Apps で実装した QR コード読み取り式備品貸出管理アプリ',
+        item_summary: 'Power Apps キャンバスアプリで実装した QR コード読み取り式備品貸出管理アプリ',
         item_tags: ['solution', 'powerapps'],
     },
 ];
