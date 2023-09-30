@@ -2116,4 +2116,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリと Power Automate クラウドフローで実装した Web スクレイピングによる天気予報アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-QrEquipmentRentalManagement',
+        item_label: 'QrEquipmentRentalManagement',
+        item_summary: 'Power Apps で実装した QR コード読み取り式備品貸出管理アプリ',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
