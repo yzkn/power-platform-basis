@@ -2123,4 +2123,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで実装した QR コード読み取り式備品貸出管理アプリ',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Weather-OpenMeteo',
+        item_label: 'OpenMeteoWeather',
+        item_summary: 'Power Apps キャンバスアプリと Power Automate クラウドフローで実装した Open-Meteo から情報取得する天気予報アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
