@@ -2130,4 +2130,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリと Power Automate クラウドフローで実装した Open-Meteo から情報取得する天気予報アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Dataverse-SharePoint-PerformanceTest',
+        item_label: 'PerformanceTest',
+        item_summary: 'Power Apps キャンバスアプリと Power Automate クラウドフローから Dataverse と SharePoint にアクセスする際のパフォーマンス検証',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
