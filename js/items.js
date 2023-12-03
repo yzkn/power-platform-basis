@@ -2137,4 +2137,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリと Power Automate クラウドフローから Dataverse と SharePoint にアクセスする際のパフォーマンス検証',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-Wizard-Simple',
+        item_label: 'WizardSample',
+        item_summary: 'Power Apps キャンバスアプリで実装したウィザード形式の UI',
+        item_tags: ['solution', 'powerapps'],
+    },
 ];
