@@ -2158,4 +2158,11 @@ const repos = [
         item_summary: 'Power Automate での「 CSV テーブルの作成」の実装例',
         item_tags: ['solution', 'powerautomate'],
     },
+    {
+        item_image: 'Flow01.png',
+        item_title: 'PowerPlatform-PowerAutomate-LoadCSV',
+        item_label: 'LoadCSV',
+        item_summary: 'Power Automate 手動トリガーで CSV ファイルを読み込む実装例',
+        item_tags: ['solution', 'powerautomate'],
+    },
 ];
