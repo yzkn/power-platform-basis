@@ -2151,4 +2151,11 @@ const repos = [
         item_summary: 'Power Automate で実装したセキュリティロール割り当て自動化フローと Power Apps キャンバスアプリで実装したセキュリティロール一覧',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'Flow01.png',
+        item_title: 'PowerPlatform-PowerAutomate-CSVTable',
+        item_label: 'CSVTable',
+        item_summary: 'Power Automate での「 CSV テーブルの作成」の実装例',
+        item_tags: ['solution', 'powerautomate'],
+    },
 ];
