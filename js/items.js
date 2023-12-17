@@ -2144,4 +2144,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで実装したウィザード形式の UI',
         item_tags: ['solution', 'powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-SecurityRoleAssignManagement',
+        item_label: 'SecurityRoleAssignManagement',
+        item_summary: 'Power Automate で実装したセキュリティロール割り当て自動化フローと Power Apps キャンバスアプリで実装したセキュリティロール一覧',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
