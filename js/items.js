@@ -2172,4 +2172,11 @@ const repos = [
         item_summary: 'Power Automate クラウドフローで配列の差分チェックを行い、追加／削除する要素を列挙する',
         item_tags: ['powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-Locale-Language-Timezone',
+        item_label: 'LocaleLanguageTimezone',
+        item_summary: 'Power Apps キャンバスアプリのロケール設定（言語、タイムゾーン）を確認する',
+        item_tags: ['powerapps'],
+    },
 ];
