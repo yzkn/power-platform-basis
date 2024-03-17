@@ -2179,4 +2179,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリのロケール設定（言語、タイムゾーン）を確認する',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-ParentAndChildrenFlows',
+        item_label: 'ParentAndChildrenFlows',
+        item_summary: 'Power Apps から Power Automate 親子フローを呼び出し（同期／非同期）',
+        item_tags: ['powerautomate'],
+    },
 ];
