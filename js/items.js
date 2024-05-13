@@ -2186,4 +2186,11 @@ const repos = [
         item_summary: 'Power Apps から Power Automate 親子フローを呼び出し（同期／非同期）',
         item_tags: ['powerautomate'],
     },
+    {
+        item_image: 'list.png',
+        item_title: 'PowerPlatform-PowerApps-BookManagement-SharePoint',
+        item_label: 'SharePointBookManagement',
+        item_summary: 'Power Apps キャンバスアプリと SharePoint で実装した蔵書管理アプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate', 'sharepoint', 'customconnector'],
+    },
 ];
