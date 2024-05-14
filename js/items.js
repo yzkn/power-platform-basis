@@ -2187,7 +2187,7 @@ const repos = [
         item_tags: ['powerautomate'],
     },
     {
-        item_image: 'list.png',
+        item_image: 'App01.png',
         item_title: 'PowerPlatform-PowerApps-BookManagement-SharePoint',
         item_label: 'SharePointBookManagement',
         item_summary: 'Power Apps キャンバスアプリと SharePoint で実装した蔵書管理アプリ',
