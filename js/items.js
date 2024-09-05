@@ -2193,4 +2193,18 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリと SharePoint で実装した蔵書管理アプリ',
         item_tags: ['solution', 'powerapps', 'powerautomate', 'sharepoint', 'customconnector'],
     },
+    {
+        item_image: 'Dataflow01.png',
+        item_title: 'PowerPlatform-Dataverse-Dataflow-LargeCSV',
+        item_label: 'DataflowLargeCSV',
+        item_summary: '巨大CSVファイルのインポート速度計測（ Power Apps データフロー）',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
+    {
+        item_image: 'Flow01.png',
+        item_title: 'PowerPlatform-Connector-Http-CheckIP',
+        item_label: 'CheckIP',
+        item_summary: 'Power Automate HTTP コネクタ利用時の送信元IP調査',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
