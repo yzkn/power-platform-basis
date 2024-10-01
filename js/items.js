@@ -2207,4 +2207,11 @@ const repos = [
         item_summary: 'Power Automate HTTP コネクタ利用時の送信元IP調査',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-HorizontalCalendar',
+        item_label: 'HorizontalCalendar',
+        item_summary: 'Power Apps キャンバスアプリで実装した横向き万年カレンダー',
+        item_tags: ['powerapps'],
+    },
 ];
