@@ -2214,4 +2214,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで実装した横向き万年カレンダー',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-MultipleStopwatches',
+        item_label: 'MultipleStopwatches',
+        item_summary: 'Power Apps キャンバスアプリで実装した複数個ストップウォッチ',
+        item_tags: ['powerapps'],
+    },
 ];
