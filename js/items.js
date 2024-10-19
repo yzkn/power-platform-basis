@@ -2221,4 +2221,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで実装した複数個ストップウォッチ',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'Flow01.png',
+        item_title: 'PowerPlatform-PowerAutomate-Dataverse-CopyTable',
+        item_label: 'CopyTable',
+        item_summary: 'Power Automate クラウドフローで Dataverse テーブルを複製する',
+        item_tags: ['solution', 'powerautomate'],
+    },
 ];
