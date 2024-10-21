@@ -2228,4 +2228,11 @@ const repos = [
         item_summary: 'Power Automate クラウドフローで Dataverse テーブルを複製する',
         item_tags: ['solution', 'powerautomate'],
     },
+    {
+        item_image: 'Flow01.png',
+        item_title: 'PowerPlatform-PowerAutomate-Dataverse-BatchImport',
+        item_label: 'BatchImport',
+        item_summary: 'Power Automate クラウドフローで Dataverse テーブルにバッチ処理でバルクインサート（一括挿入）する',
+        item_tags: ['solution', 'powerautomate'],
+    },
 ];
