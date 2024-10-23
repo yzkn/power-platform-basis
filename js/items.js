@@ -2235,4 +2235,11 @@ const repos = [
         item_summary: 'Power Automate クラウドフローで Dataverse テーブルにバッチ処理でバルクインサート（一括挿入）する',
         item_tags: ['solution', 'powerautomate'],
     },
+    {
+        item_image: 'Flow01.png',
+        item_title: 'PowerPlatform-PowerAutomate-DataverseWebAPI-TableDefinition',
+        item_label: 'TableDefinition',
+        item_summary: 'Power Automate で Dataverse テーブル定義を確認する',
+        item_tags: ['solution', 'powerautomate'],
+    },
 ];
