@@ -2242,4 +2242,11 @@ const repos = [
         item_summary: 'Power Automate で Dataverse テーブル定義を確認する',
         item_tags: ['solution', 'powerautomate'],
     },
+    {
+        item_image: 'Flow01.png',
+        item_title: 'PowerPlatform-PowerAutomate-GetCurrentSolutionFlow',
+        item_label: 'GetCurrentSolutionFlow',
+        item_summary: 'Power Automate クラウドフローが含まれているソリューションの名前などを取得する',
+        item_tags: ['solution', 'powerautomate'],
+    },
 ];
