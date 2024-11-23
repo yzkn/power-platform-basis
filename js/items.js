@@ -2256,4 +2256,11 @@ const repos = [
         item_summary: 'Power Automate クラウドフローで Dataverse テーブルのレコード数を取得する',
         item_tags: ['solution', 'powerautomate'],
     },
+    {
+        item_image: 'Flow02.png',
+        item_title: 'PowerPlatform-PowerAutomate-DataverseWebAPI-FetchXMLSamples',
+        item_label: 'FetchXMLSamples',
+        item_summary: 'Power Automate クラウドフローで FetchXML を使用して Dataverse テーブルのレコードを取得する',
+        item_tags: ['solution', 'powerautomate'],
+    },
 ];
