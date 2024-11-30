@@ -2264,7 +2264,7 @@ const repos = [
         item_tags: ['solution', 'powerautomate'],
     },
     {
-        item_image: 'Flow01.png',
+        item_image: 'Flow04.png',
         item_title: 'PowerPlatform-PowerAutomate-DataverseWebAPI-ODataQuerySamples',
         item_label: 'ODataQuerySamples',
         item_summary: 'Power Automate クラウドフローで OData クエリを使用して Dataverse テーブルのレコードを取得する',
