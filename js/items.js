@@ -2270,4 +2270,11 @@ const repos = [
         item_summary: 'Power Automate クラウドフローで OData クエリを使用して Dataverse テーブルのレコードを取得する',
         item_tags: ['solution', 'powerautomate'],
     },
+    {
+        item_image: 'Flow02_05.png',
+        item_title: 'PowerPlatform-PowerAutomate-FTP',
+        item_label: 'FTPFlow',
+        item_summary: 'Power Automate クラウドフローから FTP 接続する',
+        item_tags: ['solution', 'powerautomate'],
+    },
 ];
