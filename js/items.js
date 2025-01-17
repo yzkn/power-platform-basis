@@ -2277,4 +2277,11 @@ const repos = [
         item_summary: 'Power Automate クラウドフローから FTP 接続する',
         item_tags: ['solution', 'powerautomate'],
     },
+    {
+        item_image: 'Flow01.png',
+        item_title: 'PowerPlatform-PowerAutomate-Dataverse-GetInstanceUrl',
+        item_label: 'GetInstanceUrl',
+        item_summary: '環境 URL （ Enviironment URL / Instance URL ）を Power Automate クラウドフローで取得する',
+        item_tags: ['powerautomate'],
+    },
 ];
