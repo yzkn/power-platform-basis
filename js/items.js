@@ -2284,4 +2284,11 @@ const repos = [
         item_summary: '環境 URL （ Enviironment URL / Instance URL ）を Power Automate クラウドフローで取得する',
         item_tags: ['powerautomate'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-OverlapCheck',
+        item_label: 'OverlapCheck',
+        item_summary: 'Power Apps キャンバスアプリで実装した日付範囲の重複チェック',
+        item_tags: ['powerapps'],
+    },
 ];
