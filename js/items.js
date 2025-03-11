@@ -2291,4 +2291,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリで実装した日付範囲の重複チェック',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-TextFunction',
+        item_label: 'TextFunction',
+        item_summary: 'Power Apps キャンバスアプリのText関数',
+        item_tags: ['powerapps'],
+    },
 ];
