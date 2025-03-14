@@ -2298,4 +2298,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリのText関数',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-Approvals-SecurityRole-RestrictedAccess',
+        item_label: 'ApprovalsWithSecurityRole',
+        item_summary: 'Power Apps モデル駆動型アプリと Power Automate で実装した、セキュリティロールと所有権を厳密に設定した承認ワークフロー',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
