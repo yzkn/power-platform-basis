@@ -2319,4 +2319,11 @@ const repos = [
         item_summary: 'Power Automate クラウドフローで workflow() 関数を実行したときの結果',
         item_tags: ['powerautomate'],
     },
+    {
+        item_image: '',
+        item_title: 'PowerPlatform-Dataverse-EntityNameProperty',
+        item_label: 'EntityNameProperty',
+        item_summary: 'Dataverseテーブル名（エンティティ名）の使い分け',
+        item_tags: ['powerapps'],
+    },
 ];
