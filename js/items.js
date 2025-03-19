@@ -2312,4 +2312,11 @@ const repos = [
         item_summary: 'Power Platform環境に予め用意されているシステムテーブルの一覧',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: '',
+        item_title: 'PowerPlatform-PowerAutomate-RunWorkflowFunction',
+        item_label: 'RunWorkflowFunction',
+        item_summary: 'Power Automate クラウドフローで workflow() 関数を実行したときの結果',
+        item_tags: ['powerautomate'],
+    },
 ];
