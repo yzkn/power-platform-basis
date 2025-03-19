@@ -2305,4 +2305,11 @@ const repos = [
         item_summary: 'Power Apps モデル駆動型アプリと Power Automate で実装した、セキュリティロールと所有権を厳密に設定した承認ワークフロー',
         item_tags: ['solution', 'powerapps', 'powerautomate'],
     },
+    {
+        item_image: '',
+        item_title: 'PowerPlatform-Dataverse-SystemTables',
+        item_label: 'SystemTables',
+        item_summary: 'Power Platform環境に予め用意されているシステムテーブルの一覧',
+        item_tags: ['powerapps'],
+    },
 ];
