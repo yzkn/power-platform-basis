@@ -2326,4 +2326,11 @@ const repos = [
         item_summary: 'Dataverseテーブル名（エンティティ名）の使い分け',
         item_tags: ['powerapps'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PCF-CustomComponent-QRCode',
+        item_label: 'QRCode',
+        item_summary: 'Power Apps キャンバスアプリ／モデル駆動型アプリで QR コードを表示するためのカスタムコントロール（コードコンポーネント）',
+        item_tags: ['solution', 'powerapps', 'pcf'],
+    },
 ];
