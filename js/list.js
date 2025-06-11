@@ -24,7 +24,7 @@ const load_banners = () => {
     banners.forEach((item, index) => {
         inner.push(`
         <div class="carousel-item` + (index == 0 ? ' active' : '') + `">
-            <img alt="${item['item_label']}" src="https://raw.githubusercontent.com/yzkn/power-platform-basis/gh-pages/image/thumbnail/${item['item_title']}/${item['item_image']}">
+            <img alt="${item['item_label']}" src="https://raw.githubusercontent.com/yzkn/power-platform-basis/main/image/thumbnail/${item['item_title']}/${item['item_image']}">
 
             <div class="container">
                 <div class="carousel-caption text-end">
