@@ -75,7 +75,7 @@ const load_repos = () => {
             <div class="card shadow-sm">
                 <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg"
                     role="img" focusable="false"
-                    style="background-size: cover; background-image: url(https://raw.githubusercontent.com/yzkn/power-platform-basis/gh-pages/image/thumbnail/${item['item_title']}/${item['item_image']})">
+                    style="background-size: cover; background-image: url(https://raw.githubusercontent.com/yzkn/power-platform-basis/main/image/thumbnail/${item['item_title']}/${item['item_image']})">
                     <title class="item_title">${item['item_title']}</title>
                     <text x="50%" y="50%" fill="#eceeef" dy=".3em">${item['item_label']}</text>
                 </svg>
