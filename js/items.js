@@ -2333,4 +2333,11 @@ const repos = [
         item_summary: 'Power Apps キャンバスアプリ／モデル駆動型アプリで QR コードを表示するためのカスタムコントロール（コードコンポーネント）',
         item_tags: ['solution', 'powerapps', 'pcf'],
     },
+    {
+        item_image: 'App01.png',
+        item_title: 'PowerPlatform-PowerApps-PowerAutomate-HolidayMaster',
+        item_label: 'HolidayMaster',
+        item_summary: 'Power Automate で実装した祝日マスタ更新バッチと Power Apps キャンバスアプリで実装したカレンダーアプリ',
+        item_tags: ['solution', 'powerapps', 'powerautomate'],
+    },
 ];
